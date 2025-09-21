@@ -6,7 +6,6 @@ toolchain go1.24.5
 
 require (
 	github.com/caarlos0/env v3.5.0+incompatible
-	github.com/joho/godotenv v1.5.1
 	github.com/labstack/echo/v4 v4.12.0
 	go.mongodb.org/mongo-driver v1.12.1
 	go.uber.org/zap v1.27.0
