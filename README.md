@@ -1,6 +1,8 @@
 # CKG TB Konsolidator (Golang)
 
-<p align="center"><img src="https://echo.labstack.com/img/logo-light.svg" width="103"><br>
+<p align="center">
+<img src="https://go.dev/images/go-logo-white.svg" width="144">
+<img src="https://echo.labstack.com/img/logo-light.svg" width="160"><br>
 Komponen Server untuk mendukung interoperabilitas data Cek Kesehatan Gratis (CKG) dengan Sistem Informasi Tuberkulosi (SITB). Menjembatani pertukaran data dua arah terkait kasus TB melalui ekosistem SATUSEHAT/ASIK (Aplikasi Sehat IndonesiaKu), memungkinkan skrining, pemeriksaan dan pemanfaatan data melalui Dashboard dapat terkonsolidasi dalam satu jembatan pertukaran data yang digunakan bersama.
   
   Sistem ini merupakan draft awal infrastruktur pertukaran data yang disiapkan menggunkan bahasa pemrograman <a href="https://go.dev/" target="_blank">Golang</a> untuk mendapatkan performa tinggi, efesiensi, skalabilitas dan fleksibilitas aplikasi server nyesuaikan kebutuhan pengembangan pertukaran data SATUSEHAT dimasa depan.</p>
