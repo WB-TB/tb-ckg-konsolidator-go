@@ -1,0 +1,9384 @@
+[{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa1b"
+  },
+  "id": "11",
+  "kode": "11",
+  "nama": "Aceh",
+  "level": 1,
+  "provinsi_id": "1",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "11",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa1c"
+  },
+  "id": "11.01",
+  "kode": "1103",
+  "nama": "Kab. Aceh Selatan",
+  "level": 2,
+  "provinsi_id": "1",
+  "kabupaten_id": "3",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "11",
+  "kode_kabupaten": "1101",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa1d"
+  },
+  "id": "11.02",
+  "kode": "1104",
+  "nama": "Kab. Aceh Tenggara",
+  "level": 2,
+  "provinsi_id": "1",
+  "kabupaten_id": "4",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "11",
+  "kode_kabupaten": "1102",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa1e"
+  },
+  "id": "11.03",
+  "kode": "1105",
+  "nama": "Kab. Aceh Timur",
+  "level": 2,
+  "provinsi_id": "1",
+  "kabupaten_id": "5",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "11",
+  "kode_kabupaten": "1103",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa1f"
+  },
+  "id": "11.04",
+  "kode": "1106",
+  "nama": "Kab. Aceh Tengah",
+  "level": 2,
+  "provinsi_id": "1",
+  "kabupaten_id": "6",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "11",
+  "kode_kabupaten": "1104",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa20"
+  },
+  "id": "11.05",
+  "kode": "1107",
+  "nama": "Kab. Aceh Barat",
+  "level": 2,
+  "provinsi_id": "1",
+  "kabupaten_id": "7",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "11",
+  "kode_kabupaten": "1105",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa21"
+  },
+  "id": "11.06",
+  "kode": "1108",
+  "nama": "Kab. Aceh Besar",
+  "level": 2,
+  "provinsi_id": "1",
+  "kabupaten_id": "8",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "11",
+  "kode_kabupaten": "1106",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa22"
+  },
+  "id": "11.07",
+  "kode": "1109",
+  "nama": "Kab. Pidie",
+  "level": 2,
+  "provinsi_id": "1",
+  "kabupaten_id": "9",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "11",
+  "kode_kabupaten": "1107",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa23"
+  },
+  "id": "11.08",
+  "kode": "1111",
+  "nama": "Kab. Aceh Utara",
+  "level": 2,
+  "provinsi_id": "1",
+  "kabupaten_id": "11",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "11",
+  "kode_kabupaten": "1108",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa24"
+  },
+  "id": "11.09",
+  "kode": "1101",
+  "nama": "Kab. Simeulue",
+  "level": 2,
+  "provinsi_id": "1",
+  "kabupaten_id": "1",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "11",
+  "kode_kabupaten": "1109",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa25"
+  },
+  "id": "11.10",
+  "kode": "1102",
+  "nama": "Kab. Aceh Singkil",
+  "level": 2,
+  "provinsi_id": "1",
+  "kabupaten_id": "2",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "11",
+  "kode_kabupaten": "1110",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa26"
+  },
+  "id": "11.11",
+  "kode": "1110",
+  "nama": "Kab. Bireuen",
+  "level": 2,
+  "provinsi_id": "1",
+  "kabupaten_id": "10",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "11",
+  "kode_kabupaten": "1111",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa27"
+  },
+  "id": "11.12",
+  "kode": "1112",
+  "nama": "Kab. Aceh Barat Daya",
+  "level": 2,
+  "provinsi_id": "1",
+  "kabupaten_id": "12",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "11",
+  "kode_kabupaten": "1112",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa28"
+  },
+  "id": "11.13",
+  "kode": "1113",
+  "nama": "Kab. Gayo Lues",
+  "level": 2,
+  "provinsi_id": "1",
+  "kabupaten_id": "13",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "11",
+  "kode_kabupaten": "1113",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa29"
+  },
+  "id": "11.14",
+  "kode": "1116",
+  "nama": "Kab. Aceh Jaya",
+  "level": 2,
+  "provinsi_id": "1",
+  "kabupaten_id": "16",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "11",
+  "kode_kabupaten": "1114",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa2a"
+  },
+  "id": "11.15",
+  "kode": "1115",
+  "nama": "Kab. Nagan Raya",
+  "level": 2,
+  "provinsi_id": "1",
+  "kabupaten_id": "15",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "11",
+  "kode_kabupaten": "1115",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa2b"
+  },
+  "id": "11.16",
+  "kode": "1114",
+  "nama": "Kab. Aceh Tamiang",
+  "level": 2,
+  "provinsi_id": "1",
+  "kabupaten_id": "14",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "11",
+  "kode_kabupaten": "1116",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa2c"
+  },
+  "id": "11.17",
+  "kode": "1117",
+  "nama": "Kab. Bener Meriah",
+  "level": 2,
+  "provinsi_id": "1",
+  "kabupaten_id": "17",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "11",
+  "kode_kabupaten": "1117",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa2d"
+  },
+  "id": "11.18",
+  "kode": "1118",
+  "nama": "Kab. Pidie Jaya",
+  "level": 2,
+  "provinsi_id": "1",
+  "kabupaten_id": "18",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "11",
+  "kode_kabupaten": "1118",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa2e"
+  },
+  "id": "11.71",
+  "kode": "1171",
+  "nama": "Kota Banda Aceh",
+  "level": 2,
+  "provinsi_id": "1",
+  "kabupaten_id": "19",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "11",
+  "kode_kabupaten": "1171",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa2f"
+  },
+  "id": "11.72",
+  "kode": "1172",
+  "nama": "Kota Sabang",
+  "level": 2,
+  "provinsi_id": "1",
+  "kabupaten_id": "20",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "11",
+  "kode_kabupaten": "1172",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa30"
+  },
+  "id": "11.73",
+  "kode": "1174",
+  "nama": "Kota Lhokseumawe",
+  "level": 2,
+  "provinsi_id": "1",
+  "kabupaten_id": "22",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "11",
+  "kode_kabupaten": "1173",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa31"
+  },
+  "id": "11.74",
+  "kode": "1173",
+  "nama": "Kota Langsa",
+  "level": 2,
+  "provinsi_id": "1",
+  "kabupaten_id": "21",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "11",
+  "kode_kabupaten": "1174",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa32"
+  },
+  "id": "11.75",
+  "kode": "1175",
+  "nama": "Kota Subulussalam",
+  "level": 2,
+  "provinsi_id": "1",
+  "kabupaten_id": "23",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "11",
+  "kode_kabupaten": "1175",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa33"
+  },
+  "id": "12",
+  "kode": "12",
+  "nama": "Sumatera Utara",
+  "level": 1,
+  "provinsi_id": "2",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa34"
+  },
+  "id": "12.01",
+  "kode": "1204",
+  "nama": "Kab. Tapanuli Tengah",
+  "level": 2,
+  "provinsi_id": "2",
+  "kabupaten_id": "27",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": "1201",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa35"
+  },
+  "id": "12.02",
+  "kode": "1205",
+  "nama": "Kab. Tapanuli Utara",
+  "level": 2,
+  "provinsi_id": "2",
+  "kabupaten_id": "28",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": "1202",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa36"
+  },
+  "id": "12.03",
+  "kode": "1203",
+  "nama": "Kab. Tapanuli Selatan",
+  "level": 2,
+  "provinsi_id": "2",
+  "kabupaten_id": "26",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": "1203",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa37"
+  },
+  "id": "12.04",
+  "kode": "1201",
+  "nama": "Kab. Nias",
+  "level": 2,
+  "provinsi_id": "2",
+  "kabupaten_id": "24",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": "1204",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa38"
+  },
+  "id": "12.05",
+  "kode": "1213",
+  "nama": "Kab. Langkat",
+  "level": 2,
+  "provinsi_id": "2",
+  "kabupaten_id": "36",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": "1205",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa39"
+  },
+  "id": "12.06",
+  "kode": "1211",
+  "nama": "Kab. Karo",
+  "level": 2,
+  "provinsi_id": "2",
+  "kabupaten_id": "34",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": "1206",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa3a"
+  },
+  "id": "12.07",
+  "kode": "1212",
+  "nama": "Kab. Deli Serdang",
+  "level": 2,
+  "provinsi_id": "2",
+  "kabupaten_id": "35",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": "1207",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa3b"
+  },
+  "id": "12.08",
+  "kode": "1209",
+  "nama": "Kab. Simalungun",
+  "level": 2,
+  "provinsi_id": "2",
+  "kabupaten_id": "32",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": "1208",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa3c"
+  },
+  "id": "12.09",
+  "kode": "1208",
+  "nama": "Kab. Asahan",
+  "level": 2,
+  "provinsi_id": "2",
+  "kabupaten_id": "31",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": "1209",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa3d"
+  },
+  "id": "12.10",
+  "kode": "1207",
+  "nama": "Kab. Labuhan Batu",
+  "level": 2,
+  "provinsi_id": "2",
+  "kabupaten_id": "30",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": "1210",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa3e"
+  },
+  "id": "12.11",
+  "kode": "1210",
+  "nama": "Kab. Dairi",
+  "level": 2,
+  "provinsi_id": "2",
+  "kabupaten_id": "33",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": "1211",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa3f"
+  },
+  "id": "12.12",
+  "kode": "1206",
+  "nama": "Kab. Toba Samosir",
+  "level": 2,
+  "provinsi_id": "2",
+  "kabupaten_id": "29",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": "1212",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa40"
+  },
+  "id": "12.13",
+  "kode": "1202",
+  "nama": "Kab. Mandailing Natal",
+  "level": 2,
+  "provinsi_id": "2",
+  "kabupaten_id": "25",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": "1213",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa41"
+  },
+  "id": "12.14",
+  "kode": "1214",
+  "nama": "Kab. Nias Selatan",
+  "level": 2,
+  "provinsi_id": "2",
+  "kabupaten_id": "37",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": "1214",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa42"
+  },
+  "id": "12.15",
+  "kode": "1216",
+  "nama": "Kab. Pakpak Bharat",
+  "level": 2,
+  "provinsi_id": "2",
+  "kabupaten_id": "39",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": "1215",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa43"
+  },
+  "id": "12.16",
+  "kode": "1215",
+  "nama": "Kab. Humbang Hasundutan",
+  "level": 2,
+  "provinsi_id": "2",
+  "kabupaten_id": "38",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": "1216",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa44"
+  },
+  "id": "12.17",
+  "kode": "1217",
+  "nama": "Kab. Samosir",
+  "level": 2,
+  "provinsi_id": "2",
+  "kabupaten_id": "40",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": "1217",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa45"
+  },
+  "id": "12.18",
+  "kode": "1218",
+  "nama": "Kab. Serdang Bedagai",
+  "level": 2,
+  "provinsi_id": "2",
+  "kabupaten_id": "41",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": "1218",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa46"
+  },
+  "id": "12.19",
+  "kode": "1219",
+  "nama": "Kab. Batu Bara",
+  "level": 2,
+  "provinsi_id": "2",
+  "kabupaten_id": "42",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": "1219",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa47"
+  },
+  "id": "12.20",
+  "kode": "1220",
+  "nama": "Kab. Padang Lawas Utara",
+  "level": 2,
+  "provinsi_id": "2",
+  "kabupaten_id": "43",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": "1220",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa48"
+  },
+  "id": "12.21",
+  "kode": "1221",
+  "nama": "Kab. Padang Lawas",
+  "level": 2,
+  "provinsi_id": "2",
+  "kabupaten_id": "44",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": "1221",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa49"
+  },
+  "id": "12.22",
+  "kode": "1222",
+  "nama": "Kab. Labuhan Batu Selatan",
+  "level": 2,
+  "provinsi_id": "2",
+  "kabupaten_id": "45",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": "1222",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa4a"
+  },
+  "id": "12.23",
+  "kode": "1223",
+  "nama": "Kab. Labuhan Batu Utara",
+  "level": 2,
+  "provinsi_id": "2",
+  "kabupaten_id": "46",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": "1223",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa4b"
+  },
+  "id": "12.24",
+  "kode": "1224",
+  "nama": "Kab. Nias Utara",
+  "level": 2,
+  "provinsi_id": "2",
+  "kabupaten_id": "47",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": "1224",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa4c"
+  },
+  "id": "12.25",
+  "kode": "1225",
+  "nama": "Kab. Nias Barat",
+  "level": 2,
+  "provinsi_id": "2",
+  "kabupaten_id": "48",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": "1225",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa4d"
+  },
+  "id": "12.71",
+  "kode": "1275",
+  "nama": "Kota Medan",
+  "level": 2,
+  "provinsi_id": "2",
+  "kabupaten_id": "53",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": "1271",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa4e"
+  },
+  "id": "12.72",
+  "kode": "1273",
+  "nama": "Kota Pematang Siantar",
+  "level": 2,
+  "provinsi_id": "2",
+  "kabupaten_id": "51",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": "1272",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa4f"
+  },
+  "id": "12.73",
+  "kode": "1271",
+  "nama": "Kota Sibolga",
+  "level": 2,
+  "provinsi_id": "2",
+  "kabupaten_id": "49",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": "1273",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa50"
+  },
+  "id": "12.74",
+  "kode": "1272",
+  "nama": "Kota Tanjung Balai",
+  "level": 2,
+  "provinsi_id": "2",
+  "kabupaten_id": "50",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": "1274",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa51"
+  },
+  "id": "12.75",
+  "kode": "1276",
+  "nama": "Kota Binjai",
+  "level": 2,
+  "provinsi_id": "2",
+  "kabupaten_id": "54",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": "1275",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa52"
+  },
+  "id": "12.76",
+  "kode": "1274",
+  "nama": "Kota Tebing Tinggi",
+  "level": 2,
+  "provinsi_id": "2",
+  "kabupaten_id": "52",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": "1276",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa53"
+  },
+  "id": "12.77",
+  "kode": "1277",
+  "nama": "Kota Padangsidimpuan",
+  "level": 2,
+  "provinsi_id": "2",
+  "kabupaten_id": "55",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": "1277",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa54"
+  },
+  "id": "12.78",
+  "kode": "1278",
+  "nama": "Kota Gunungsitoli",
+  "level": 2,
+  "provinsi_id": "2",
+  "kabupaten_id": "56",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "12",
+  "kode_kabupaten": "1278",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa55"
+  },
+  "id": "13",
+  "kode": "13",
+  "nama": "Sumatera Barat",
+  "level": 1,
+  "provinsi_id": "3",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "13",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa56"
+  },
+  "id": "13.01",
+  "kode": "1302",
+  "nama": "Kab. Pesisir Selatan",
+  "level": 2,
+  "provinsi_id": "3",
+  "kabupaten_id": "58",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "13",
+  "kode_kabupaten": "1301",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa57"
+  },
+  "id": "13.02",
+  "kode": "1303",
+  "nama": "Kab. Solok",
+  "level": 2,
+  "provinsi_id": "3",
+  "kabupaten_id": "59",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "13",
+  "kode_kabupaten": "1302",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa58"
+  },
+  "id": "13.03",
+  "kode": "1304",
+  "nama": "Kab. Sijunjung",
+  "level": 2,
+  "provinsi_id": "3",
+  "kabupaten_id": "60",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "13",
+  "kode_kabupaten": "1303",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa59"
+  },
+  "id": "13.04",
+  "kode": "1305",
+  "nama": "Kab. Tanah Datar",
+  "level": 2,
+  "provinsi_id": "3",
+  "kabupaten_id": "61",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "13",
+  "kode_kabupaten": "1304",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa5a"
+  },
+  "id": "13.05",
+  "kode": "1306",
+  "nama": "Kab. Padang Pariaman",
+  "level": 2,
+  "provinsi_id": "3",
+  "kabupaten_id": "62",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "13",
+  "kode_kabupaten": "1305",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa5b"
+  },
+  "id": "13.06",
+  "kode": "1307",
+  "nama": "Kab. Agam",
+  "level": 2,
+  "provinsi_id": "3",
+  "kabupaten_id": "63",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "13",
+  "kode_kabupaten": "1306",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa5c"
+  },
+  "id": "13.07",
+  "kode": "1308",
+  "nama": "Kab. Lima Puluh Kota",
+  "level": 2,
+  "provinsi_id": "3",
+  "kabupaten_id": "64",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "13",
+  "kode_kabupaten": "1307",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa5d"
+  },
+  "id": "13.08",
+  "kode": "1309",
+  "nama": "Kab. Pasaman",
+  "level": 2,
+  "provinsi_id": "3",
+  "kabupaten_id": "65",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "13",
+  "kode_kabupaten": "1308",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa5e"
+  },
+  "id": "13.09",
+  "kode": "1301",
+  "nama": "Kab. Kepulauan Mentawai",
+  "level": 2,
+  "provinsi_id": "3",
+  "kabupaten_id": "57",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "13",
+  "kode_kabupaten": "1309",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa5f"
+  },
+  "id": "13.10",
+  "kode": "1311",
+  "nama": "Kab. Dharmasraya",
+  "level": 2,
+  "provinsi_id": "3",
+  "kabupaten_id": "67",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "13",
+  "kode_kabupaten": "1310",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa60"
+  },
+  "id": "13.11",
+  "kode": "1310",
+  "nama": "Kab. Solok Selatan",
+  "level": 2,
+  "provinsi_id": "3",
+  "kabupaten_id": "66",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "13",
+  "kode_kabupaten": "1311",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa61"
+  },
+  "id": "13.12",
+  "kode": "1312",
+  "nama": "Kab. Pasaman Barat",
+  "level": 2,
+  "provinsi_id": "3",
+  "kabupaten_id": "68",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "13",
+  "kode_kabupaten": "1312",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa62"
+  },
+  "id": "13.71",
+  "kode": "1371",
+  "nama": "Kota Padang",
+  "level": 2,
+  "provinsi_id": "3",
+  "kabupaten_id": "69",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "13",
+  "kode_kabupaten": "1371",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa63"
+  },
+  "id": "13.72",
+  "kode": "1372",
+  "nama": "Kota Solok",
+  "level": 2,
+  "provinsi_id": "3",
+  "kabupaten_id": "70",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "13",
+  "kode_kabupaten": "1372",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa64"
+  },
+  "id": "13.73",
+  "kode": "1373",
+  "nama": "Kota Sawah Lunto",
+  "level": 2,
+  "provinsi_id": "3",
+  "kabupaten_id": "71",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "13",
+  "kode_kabupaten": "1373",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa65"
+  },
+  "id": "13.74",
+  "kode": "1374",
+  "nama": "Kota Padang Panjang",
+  "level": 2,
+  "provinsi_id": "3",
+  "kabupaten_id": "72",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "13",
+  "kode_kabupaten": "1374",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa66"
+  },
+  "id": "13.75",
+  "kode": "1375",
+  "nama": "Kota Bukittinggi",
+  "level": 2,
+  "provinsi_id": "3",
+  "kabupaten_id": "73",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "13",
+  "kode_kabupaten": "1375",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa67"
+  },
+  "id": "13.76",
+  "kode": "1376",
+  "nama": "Kota Payakumbuh",
+  "level": 2,
+  "provinsi_id": "3",
+  "kabupaten_id": "74",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "13",
+  "kode_kabupaten": "1376",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa68"
+  },
+  "id": "13.77",
+  "kode": "1377",
+  "nama": "Kota Pariaman",
+  "level": 2,
+  "provinsi_id": "3",
+  "kabupaten_id": "75",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "13",
+  "kode_kabupaten": "1377",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa69"
+  },
+  "id": "14",
+  "kode": "14",
+  "nama": "Riau",
+  "level": 1,
+  "provinsi_id": "4",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "14",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa6a"
+  },
+  "id": "14.01",
+  "kode": "1406",
+  "nama": "Kab. Kampar",
+  "level": 2,
+  "provinsi_id": "4",
+  "kabupaten_id": "81",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "14",
+  "kode_kabupaten": "1401",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa6b"
+  },
+  "id": "14.02",
+  "kode": "1402",
+  "nama": "Kab. Indragiri Hulu",
+  "level": 2,
+  "provinsi_id": "4",
+  "kabupaten_id": "77",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "14",
+  "kode_kabupaten": "1402",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa6c"
+  },
+  "id": "14.03",
+  "kode": "1408",
+  "nama": "Kab. Bengkalis",
+  "level": 2,
+  "provinsi_id": "4",
+  "kabupaten_id": "83",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "14",
+  "kode_kabupaten": "1403",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa6d"
+  },
+  "id": "14.04",
+  "kode": "1403",
+  "nama": "Kab. Indragiri Hilir",
+  "level": 2,
+  "provinsi_id": "4",
+  "kabupaten_id": "78",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "14",
+  "kode_kabupaten": "1404",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa6e"
+  },
+  "id": "14.05",
+  "kode": "1404",
+  "nama": "Kab. Pelalawan",
+  "level": 2,
+  "provinsi_id": "4",
+  "kabupaten_id": "79",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "14",
+  "kode_kabupaten": "1405",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa6f"
+  },
+  "id": "14.06",
+  "kode": "1407",
+  "nama": "Kab. Rokan Hulu",
+  "level": 2,
+  "provinsi_id": "4",
+  "kabupaten_id": "82",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "14",
+  "kode_kabupaten": "1406",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa70"
+  },
+  "id": "14.07",
+  "kode": "1409",
+  "nama": "Kab. Rokan Hilir",
+  "level": 2,
+  "provinsi_id": "4",
+  "kabupaten_id": "84",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "14",
+  "kode_kabupaten": "1407",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa71"
+  },
+  "id": "14.08",
+  "kode": "1405",
+  "nama": "Kab. Siak",
+  "level": 2,
+  "provinsi_id": "4",
+  "kabupaten_id": "80",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "14",
+  "kode_kabupaten": "1408",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa72"
+  },
+  "id": "14.09",
+  "kode": "1401",
+  "nama": "Kab. Kuantan Singingi",
+  "level": 2,
+  "provinsi_id": "4",
+  "kabupaten_id": "76",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "14",
+  "kode_kabupaten": "1409",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa73"
+  },
+  "id": "14.10",
+  "kode": "1410",
+  "nama": "Kab. Kepulauan Meranti",
+  "level": 2,
+  "provinsi_id": "4",
+  "kabupaten_id": "85",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "14",
+  "kode_kabupaten": "1410",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa74"
+  },
+  "id": "14.71",
+  "kode": "1471",
+  "nama": "Kota Pekanbaru",
+  "level": 2,
+  "provinsi_id": "4",
+  "kabupaten_id": "86",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "14",
+  "kode_kabupaten": "1471",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa75"
+  },
+  "id": "14.72",
+  "kode": "1473",
+  "nama": "Kota Dumai",
+  "level": 2,
+  "provinsi_id": "4",
+  "kabupaten_id": "87",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "14",
+  "kode_kabupaten": "1472",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa76"
+  },
+  "id": "15",
+  "kode": "15",
+  "nama": "Jambi",
+  "level": 1,
+  "provinsi_id": "5",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "15",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa77"
+  },
+  "id": "15.01",
+  "kode": "1501",
+  "nama": "Kab. Kerinci",
+  "level": 2,
+  "provinsi_id": "5",
+  "kabupaten_id": "88",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "15",
+  "kode_kabupaten": "1501",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa78"
+  },
+  "id": "15.02",
+  "kode": "1502",
+  "nama": "Kab. Merangin",
+  "level": 2,
+  "provinsi_id": "5",
+  "kabupaten_id": "89",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "15",
+  "kode_kabupaten": "1502",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa79"
+  },
+  "id": "15.03",
+  "kode": "1503",
+  "nama": "Kab. Sarolangun",
+  "level": 2,
+  "provinsi_id": "5",
+  "kabupaten_id": "90",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "15",
+  "kode_kabupaten": "1503",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa7a"
+  },
+  "id": "15.04",
+  "kode": "1504",
+  "nama": "Kab. Batang Hari",
+  "level": 2,
+  "provinsi_id": "5",
+  "kabupaten_id": "91",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "15",
+  "kode_kabupaten": "1504",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa7b"
+  },
+  "id": "15.05",
+  "kode": "1505",
+  "nama": "Kab. Muaro Jambi",
+  "level": 2,
+  "provinsi_id": "5",
+  "kabupaten_id": "92",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "15",
+  "kode_kabupaten": "1505",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa7c"
+  },
+  "id": "15.06",
+  "kode": "1507",
+  "nama": "Kab. Tanjung Jabung Barat",
+  "level": 2,
+  "provinsi_id": "5",
+  "kabupaten_id": "94",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "15",
+  "kode_kabupaten": "1506",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa7d"
+  },
+  "id": "15.07",
+  "kode": "1506",
+  "nama": "Kab. Tanjung Jabung Timur",
+  "level": 2,
+  "provinsi_id": "5",
+  "kabupaten_id": "93",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "15",
+  "kode_kabupaten": "1507",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa7e"
+  },
+  "id": "15.08",
+  "kode": "1509",
+  "nama": "Kab. Bungo",
+  "level": 2,
+  "provinsi_id": "5",
+  "kabupaten_id": "96",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "15",
+  "kode_kabupaten": "1508",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa7f"
+  },
+  "id": "15.09",
+  "kode": "1508",
+  "nama": "Kab. Tebo",
+  "level": 2,
+  "provinsi_id": "5",
+  "kabupaten_id": "95",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "15",
+  "kode_kabupaten": "1509",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa80"
+  },
+  "id": "15.71",
+  "kode": "1571",
+  "nama": "Kota Jambi",
+  "level": 2,
+  "provinsi_id": "5",
+  "kabupaten_id": "97",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "15",
+  "kode_kabupaten": "1571",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa81"
+  },
+  "id": "15.72",
+  "kode": "1572",
+  "nama": "Kota Sungai Penuh",
+  "level": 2,
+  "provinsi_id": "5",
+  "kabupaten_id": "98",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "15",
+  "kode_kabupaten": "1572",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa82"
+  },
+  "id": "16",
+  "kode": "16",
+  "nama": "Sumatera Selatan",
+  "level": 1,
+  "provinsi_id": "6",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "16",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa83"
+  },
+  "id": "16.01",
+  "kode": "1601",
+  "nama": "Kab. Ogan Komering Ulu",
+  "level": 2,
+  "provinsi_id": "6",
+  "kabupaten_id": "99",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "16",
+  "kode_kabupaten": "1601",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa84"
+  },
+  "id": "16.02",
+  "kode": "1602",
+  "nama": "Kab. Ogan Komering Ilir",
+  "level": 2,
+  "provinsi_id": "6",
+  "kabupaten_id": "100",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "16",
+  "kode_kabupaten": "1602",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa85"
+  },
+  "id": "16.03",
+  "kode": "1603",
+  "nama": "Kab. Muara Enim",
+  "level": 2,
+  "provinsi_id": "6",
+  "kabupaten_id": "101",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "16",
+  "kode_kabupaten": "1603",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa86"
+  },
+  "id": "16.04",
+  "kode": "1604",
+  "nama": "Kab. Lahat",
+  "level": 2,
+  "provinsi_id": "6",
+  "kabupaten_id": "102",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "16",
+  "kode_kabupaten": "1604",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa87"
+  },
+  "id": "16.05",
+  "kode": "1605",
+  "nama": "Kab. Musi Rawas",
+  "level": 2,
+  "provinsi_id": "6",
+  "kabupaten_id": "103",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "16",
+  "kode_kabupaten": "1605",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa88"
+  },
+  "id": "16.06",
+  "kode": "1606",
+  "nama": "Kab. Musi Banyuasin",
+  "level": 2,
+  "provinsi_id": "6",
+  "kabupaten_id": "104",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "16",
+  "kode_kabupaten": "1606",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa89"
+  },
+  "id": "16.07",
+  "kode": "1607",
+  "nama": "Kab. Banyu Asin",
+  "level": 2,
+  "provinsi_id": "6",
+  "kabupaten_id": "105",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "16",
+  "kode_kabupaten": "1607",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa8a"
+  },
+  "id": "16.08",
+  "kode": "1609",
+  "nama": "Kab. Ogan Komering Ulu Timur",
+  "level": 2,
+  "provinsi_id": "6",
+  "kabupaten_id": "107",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "16",
+  "kode_kabupaten": "1608",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa8b"
+  },
+  "id": "16.09",
+  "kode": "1608",
+  "nama": "Kab. Ogan Komering Ulu Selatan",
+  "level": 2,
+  "provinsi_id": "6",
+  "kabupaten_id": "106",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "16",
+  "kode_kabupaten": "1609",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa8c"
+  },
+  "id": "16.10",
+  "kode": "1610",
+  "nama": "Kab. Ogan Ilir",
+  "level": 2,
+  "provinsi_id": "6",
+  "kabupaten_id": "108",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "16",
+  "kode_kabupaten": "1610",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa8d"
+  },
+  "id": "16.11",
+  "kode": "1611",
+  "nama": "Kab. Empat Lawang",
+  "level": 2,
+  "provinsi_id": "6",
+  "kabupaten_id": "109",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "16",
+  "kode_kabupaten": "1611",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa8e"
+  },
+  "id": "16.12",
+  "kode": "1612",
+  "nama": "Kab. Penukal Abab",
+  "level": 2,
+  "provinsi_id": "6",
+  "kabupaten_id": "110",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "16",
+  "kode_kabupaten": "1612",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa8f"
+  },
+  "id": "16.13",
+  "kode": "1613",
+  "nama": "Kab. Musi Rawas Utara",
+  "level": 2,
+  "provinsi_id": "6",
+  "kabupaten_id": "111",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "16",
+  "kode_kabupaten": "1613",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa90"
+  },
+  "id": "16.71",
+  "kode": "1671",
+  "nama": "Kota Palembang",
+  "level": 2,
+  "provinsi_id": "6",
+  "kabupaten_id": "112",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "16",
+  "kode_kabupaten": "1671",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa91"
+  },
+  "id": "16.72",
+  "kode": "1673",
+  "nama": "Kota Pagar Alam",
+  "level": 2,
+  "provinsi_id": "6",
+  "kabupaten_id": "114",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "16",
+  "kode_kabupaten": "1672",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa92"
+  },
+  "id": "16.73",
+  "kode": "1674",
+  "nama": "Kota Lubuklinggau",
+  "level": 2,
+  "provinsi_id": "6",
+  "kabupaten_id": "115",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "16",
+  "kode_kabupaten": "1673",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa93"
+  },
+  "id": "16.74",
+  "kode": "1672",
+  "nama": "Kota Prabumulih",
+  "level": 2,
+  "provinsi_id": "6",
+  "kabupaten_id": "113",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "16",
+  "kode_kabupaten": "1674",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa94"
+  },
+  "id": "17",
+  "kode": "17",
+  "nama": "Bengkulu",
+  "level": 1,
+  "provinsi_id": "7",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "17",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa95"
+  },
+  "id": "17.01",
+  "kode": "1701",
+  "nama": "Kab. Bengkulu Selatan",
+  "level": 2,
+  "provinsi_id": "7",
+  "kabupaten_id": "116",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "17",
+  "kode_kabupaten": "1701",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa96"
+  },
+  "id": "17.02",
+  "kode": "1702",
+  "nama": "Kab. Rejang Lebong",
+  "level": 2,
+  "provinsi_id": "7",
+  "kabupaten_id": "117",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "17",
+  "kode_kabupaten": "1702",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa97"
+  },
+  "id": "17.03",
+  "kode": "1703",
+  "nama": "Kab. Bengkulu Utara",
+  "level": 2,
+  "provinsi_id": "7",
+  "kabupaten_id": "118",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "17",
+  "kode_kabupaten": "1703",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa98"
+  },
+  "id": "17.04",
+  "kode": "1704",
+  "nama": "Kab. Kaur",
+  "level": 2,
+  "provinsi_id": "7",
+  "kabupaten_id": "119",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "17",
+  "kode_kabupaten": "1704",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa99"
+  },
+  "id": "17.05",
+  "kode": "1705",
+  "nama": "Kab. Seluma",
+  "level": 2,
+  "provinsi_id": "7",
+  "kabupaten_id": "120",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "17",
+  "kode_kabupaten": "1705",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa9a"
+  },
+  "id": "17.06",
+  "kode": "1706",
+  "nama": "Kab. Mukomuko",
+  "level": 2,
+  "provinsi_id": "7",
+  "kabupaten_id": "121",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "17",
+  "kode_kabupaten": "1706",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa9b"
+  },
+  "id": "17.07",
+  "kode": "1707",
+  "nama": "Kab. Lebong",
+  "level": 2,
+  "provinsi_id": "7",
+  "kabupaten_id": "122",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "17",
+  "kode_kabupaten": "1707",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa9c"
+  },
+  "id": "17.08",
+  "kode": "1708",
+  "nama": "Kab. Kepahiang",
+  "level": 2,
+  "provinsi_id": "7",
+  "kabupaten_id": "123",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "17",
+  "kode_kabupaten": "1708",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa9d"
+  },
+  "id": "17.09",
+  "kode": "1709",
+  "nama": "Kab. Bengkulu Tengah",
+  "level": 2,
+  "provinsi_id": "7",
+  "kabupaten_id": "124",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "17",
+  "kode_kabupaten": "1709",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa9e"
+  },
+  "id": "17.71",
+  "kode": "1771",
+  "nama": "Kota Bengkulu",
+  "level": 2,
+  "provinsi_id": "7",
+  "kabupaten_id": "125",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "17",
+  "kode_kabupaten": "1771",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aa9f"
+  },
+  "id": "18",
+  "kode": "18",
+  "nama": "Lampung",
+  "level": 1,
+  "provinsi_id": "8",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "18",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaa0"
+  },
+  "id": "18.01",
+  "kode": "1803",
+  "nama": "Kab. Lampung Selatan",
+  "level": 2,
+  "provinsi_id": "8",
+  "kabupaten_id": "128",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "18",
+  "kode_kabupaten": "1801",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaa1"
+  },
+  "id": "18.02",
+  "kode": "1805",
+  "nama": "Kab. Lampung Tengah",
+  "level": 2,
+  "provinsi_id": "8",
+  "kabupaten_id": "130",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "18",
+  "kode_kabupaten": "1802",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaa2"
+  },
+  "id": "18.03",
+  "kode": "1806",
+  "nama": "Kab. Lampung Utara",
+  "level": 2,
+  "provinsi_id": "8",
+  "kabupaten_id": "131",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "18",
+  "kode_kabupaten": "1803",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaa3"
+  },
+  "id": "18.04",
+  "kode": "1801",
+  "nama": "Kab. Lampung Barat",
+  "level": 2,
+  "provinsi_id": "8",
+  "kabupaten_id": "126",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "18",
+  "kode_kabupaten": "1804",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaa4"
+  },
+  "id": "18.05",
+  "kode": "1808",
+  "nama": "Kab. Tulangbawang",
+  "level": 2,
+  "provinsi_id": "8",
+  "kabupaten_id": "133",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "18",
+  "kode_kabupaten": "1805",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaa5"
+  },
+  "id": "18.06",
+  "kode": "1802",
+  "nama": "Kab. Tanggamus",
+  "level": 2,
+  "provinsi_id": "8",
+  "kabupaten_id": "127",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "18",
+  "kode_kabupaten": "1806",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaa6"
+  },
+  "id": "18.07",
+  "kode": "1804",
+  "nama": "Kab. Lampung Timur",
+  "level": 2,
+  "provinsi_id": "8",
+  "kabupaten_id": "129",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "18",
+  "kode_kabupaten": "1807",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaa7"
+  },
+  "id": "18.08",
+  "kode": "1807",
+  "nama": "Kab. Way Kanan",
+  "level": 2,
+  "provinsi_id": "8",
+  "kabupaten_id": "132",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "18",
+  "kode_kabupaten": "1808",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaa8"
+  },
+  "id": "18.09",
+  "kode": "1809",
+  "nama": "Kab. Pesawaran",
+  "level": 2,
+  "provinsi_id": "8",
+  "kabupaten_id": "134",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "18",
+  "kode_kabupaten": "1809",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaa9"
+  },
+  "id": "18.10",
+  "kode": "1810",
+  "nama": "Kab. Pringsewu",
+  "level": 2,
+  "provinsi_id": "8",
+  "kabupaten_id": "135",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "18",
+  "kode_kabupaten": "1810",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaaa"
+  },
+  "id": "18.11",
+  "kode": "1811",
+  "nama": "Kab. Mesuji",
+  "level": 2,
+  "provinsi_id": "8",
+  "kabupaten_id": "136",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "18",
+  "kode_kabupaten": "1811",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaab"
+  },
+  "id": "18.12",
+  "kode": "1812",
+  "nama": "Kab. Tulang Bawang Barat",
+  "level": 2,
+  "provinsi_id": "8",
+  "kabupaten_id": "137",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "18",
+  "kode_kabupaten": "1812",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaac"
+  },
+  "id": "18.13",
+  "kode": "1813",
+  "nama": "Kab. Pesisir Barat",
+  "level": 2,
+  "provinsi_id": "8",
+  "kabupaten_id": "138",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "18",
+  "kode_kabupaten": "1813",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaad"
+  },
+  "id": "18.71",
+  "kode": "1871",
+  "nama": "Kota Bandar Lampung",
+  "level": 2,
+  "provinsi_id": "8",
+  "kabupaten_id": "139",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "18",
+  "kode_kabupaten": "1871",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaae"
+  },
+  "id": "18.72",
+  "kode": "1872",
+  "nama": "Kota Metro",
+  "level": 2,
+  "provinsi_id": "8",
+  "kabupaten_id": "140",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "18",
+  "kode_kabupaten": "1872",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaaf"
+  },
+  "id": "19",
+  "kode": "19",
+  "nama": "Kepulauan Bangka Belitung",
+  "level": 1,
+  "provinsi_id": "9",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "19",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aab0"
+  },
+  "id": "19.01",
+  "kode": "1901",
+  "nama": "Kab. Bangka",
+  "level": 2,
+  "provinsi_id": "9",
+  "kabupaten_id": "141",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "19",
+  "kode_kabupaten": "1901",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aab1"
+  },
+  "id": "19.02",
+  "kode": "1902",
+  "nama": "Kab. Belitung",
+  "level": 2,
+  "provinsi_id": "9",
+  "kabupaten_id": "142",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "19",
+  "kode_kabupaten": "1902",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aab2"
+  },
+  "id": "19.03",
+  "kode": "1905",
+  "nama": "Kab. Bangka Selatan",
+  "level": 2,
+  "provinsi_id": "9",
+  "kabupaten_id": "145",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "19",
+  "kode_kabupaten": "1903",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aab3"
+  },
+  "id": "19.04",
+  "kode": "1904",
+  "nama": "Kab. Bangka Tengah",
+  "level": 2,
+  "provinsi_id": "9",
+  "kabupaten_id": "144",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "19",
+  "kode_kabupaten": "1904",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aab4"
+  },
+  "id": "19.05",
+  "kode": "1903",
+  "nama": "Kab. Bangka Barat",
+  "level": 2,
+  "provinsi_id": "9",
+  "kabupaten_id": "143",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "19",
+  "kode_kabupaten": "1905",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aab5"
+  },
+  "id": "19.06",
+  "kode": "1906",
+  "nama": "Kab. Belitung Timur",
+  "level": 2,
+  "provinsi_id": "9",
+  "kabupaten_id": "146",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "19",
+  "kode_kabupaten": "1906",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aab6"
+  },
+  "id": "19.71",
+  "kode": "1971",
+  "nama": "Kota Pangkal Pinang",
+  "level": 2,
+  "provinsi_id": "9",
+  "kabupaten_id": "147",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "19",
+  "kode_kabupaten": "1971",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aab7"
+  },
+  "id": "21",
+  "kode": "21",
+  "nama": "Kepulauan Riau",
+  "level": 1,
+  "provinsi_id": "10",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "21",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aab8"
+  },
+  "id": "21.01",
+  "kode": "2102",
+  "nama": "Kab. Bintan",
+  "level": 2,
+  "provinsi_id": "10",
+  "kabupaten_id": "149",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "21",
+  "kode_kabupaten": "2101",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aab9"
+  },
+  "id": "21.02",
+  "kode": "2101",
+  "nama": "Kab. Karimun",
+  "level": 2,
+  "provinsi_id": "10",
+  "kabupaten_id": "148",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "21",
+  "kode_kabupaten": "2102",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaba"
+  },
+  "id": "21.03",
+  "kode": "2103",
+  "nama": "Kab. Natuna",
+  "level": 2,
+  "provinsi_id": "10",
+  "kabupaten_id": "150",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "21",
+  "kode_kabupaten": "2103",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aabb"
+  },
+  "id": "21.04",
+  "kode": "2104",
+  "nama": "Kab. Lingga",
+  "level": 2,
+  "provinsi_id": "10",
+  "kabupaten_id": "151",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "21",
+  "kode_kabupaten": "2104",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aabc"
+  },
+  "id": "21.05",
+  "kode": "2105",
+  "nama": "Kab. Kepulauan Anambas",
+  "level": 2,
+  "provinsi_id": "10",
+  "kabupaten_id": "152",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "21",
+  "kode_kabupaten": "2105",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aabd"
+  },
+  "id": "21.71",
+  "kode": "2171",
+  "nama": "Kota Batam",
+  "level": 2,
+  "provinsi_id": "10",
+  "kabupaten_id": "153",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "21",
+  "kode_kabupaten": "2171",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aabe"
+  },
+  "id": "21.72",
+  "kode": "2172",
+  "nama": "Kota Tanjung Pinang",
+  "level": 2,
+  "provinsi_id": "10",
+  "kabupaten_id": "154",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "21",
+  "kode_kabupaten": "2172",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aabf"
+  },
+  "id": "31",
+  "kode": "31",
+  "nama": "DKI Jakarta",
+  "level": 1,
+  "provinsi_id": "11",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "31",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aac0"
+  },
+  "id": "31.01",
+  "kode": "3101",
+  "nama": "Kab. Kepulauan Seribu",
+  "level": 2,
+  "provinsi_id": "11",
+  "kabupaten_id": "155",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "31",
+  "kode_kabupaten": "3101",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aac1"
+  },
+  "id": "31.71",
+  "kode": "3173",
+  "nama": "Kota Jakarta Pusat",
+  "level": 2,
+  "provinsi_id": "11",
+  "kabupaten_id": "158",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "31",
+  "kode_kabupaten": "3171",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aac2"
+  },
+  "id": "31.72",
+  "kode": "3175",
+  "nama": "Kota Jakarta Utara",
+  "level": 2,
+  "provinsi_id": "11",
+  "kabupaten_id": "160",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "31",
+  "kode_kabupaten": "3172",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aac3"
+  },
+  "id": "31.73",
+  "kode": "3174",
+  "nama": "Kota Jakarta Barat",
+  "level": 2,
+  "provinsi_id": "11",
+  "kabupaten_id": "159",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "31",
+  "kode_kabupaten": "3173",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aac4"
+  },
+  "id": "31.74",
+  "kode": "3171",
+  "nama": "Kota Jakarta Selatan",
+  "level": 2,
+  "provinsi_id": "11",
+  "kabupaten_id": "156",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "31",
+  "kode_kabupaten": "3174",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aac5"
+  },
+  "id": "31.75",
+  "kode": "3172",
+  "nama": "Kota Jakarta Timur",
+  "level": 2,
+  "provinsi_id": "11",
+  "kabupaten_id": "157",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "31",
+  "kode_kabupaten": "3175",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aac6"
+  },
+  "id": "32",
+  "kode": "32",
+  "nama": "Jawa Barat",
+  "level": 1,
+  "provinsi_id": "12",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "32",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aac7"
+  },
+  "id": "32.01",
+  "kode": "3201",
+  "nama": "Kab. Bogor",
+  "level": 2,
+  "provinsi_id": "12",
+  "kabupaten_id": "161",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "32",
+  "kode_kabupaten": "3201",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aac8"
+  },
+  "id": "32.02",
+  "kode": "3202",
+  "nama": "Kab. Sukabumi",
+  "level": 2,
+  "provinsi_id": "12",
+  "kabupaten_id": "162",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "32",
+  "kode_kabupaten": "3202",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aac9"
+  },
+  "id": "32.03",
+  "kode": "3203",
+  "nama": "Kab. Cianjur",
+  "level": 2,
+  "provinsi_id": "12",
+  "kabupaten_id": "163",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "32",
+  "kode_kabupaten": "3203",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaca"
+  },
+  "id": "32.04",
+  "kode": "3204",
+  "nama": "Kab. Bandung",
+  "level": 2,
+  "provinsi_id": "12",
+  "kabupaten_id": "164",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "32",
+  "kode_kabupaten": "3204",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aacb"
+  },
+  "id": "32.05",
+  "kode": "3205",
+  "nama": "Kab. Garut",
+  "level": 2,
+  "provinsi_id": "12",
+  "kabupaten_id": "165",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "32",
+  "kode_kabupaten": "3205",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aacc"
+  },
+  "id": "32.06",
+  "kode": "3206",
+  "nama": "Kab. Tasikmalaya",
+  "level": 2,
+  "provinsi_id": "12",
+  "kabupaten_id": "166",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "32",
+  "kode_kabupaten": "3206",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aacd"
+  },
+  "id": "32.07",
+  "kode": "3207",
+  "nama": "Kab. Ciamis",
+  "level": 2,
+  "provinsi_id": "12",
+  "kabupaten_id": "167",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "32",
+  "kode_kabupaten": "3207",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aace"
+  },
+  "id": "32.08",
+  "kode": "3208",
+  "nama": "Kab. Kuningan",
+  "level": 2,
+  "provinsi_id": "12",
+  "kabupaten_id": "168",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "32",
+  "kode_kabupaten": "3208",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aacf"
+  },
+  "id": "32.09",
+  "kode": "3209",
+  "nama": "Kab. Cirebon",
+  "level": 2,
+  "provinsi_id": "12",
+  "kabupaten_id": "169",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "32",
+  "kode_kabupaten": "3209",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aad0"
+  },
+  "id": "32.10",
+  "kode": "3210",
+  "nama": "Kab. Majalengka",
+  "level": 2,
+  "provinsi_id": "12",
+  "kabupaten_id": "170",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "32",
+  "kode_kabupaten": "3210",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aad1"
+  },
+  "id": "32.11",
+  "kode": "3211",
+  "nama": "Kab. Sumedang",
+  "level": 2,
+  "provinsi_id": "12",
+  "kabupaten_id": "171",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "32",
+  "kode_kabupaten": "3211",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aad2"
+  },
+  "id": "32.12",
+  "kode": "3212",
+  "nama": "Kab. Indramayu",
+  "level": 2,
+  "provinsi_id": "12",
+  "kabupaten_id": "172",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "32",
+  "kode_kabupaten": "3212",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aad3"
+  },
+  "id": "32.13",
+  "kode": "3213",
+  "nama": "Kab. Subang",
+  "level": 2,
+  "provinsi_id": "12",
+  "kabupaten_id": "173",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "32",
+  "kode_kabupaten": "3213",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aad4"
+  },
+  "id": "32.14",
+  "kode": "3214",
+  "nama": "Kab. Purwakarta",
+  "level": 2,
+  "provinsi_id": "12",
+  "kabupaten_id": "174",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "32",
+  "kode_kabupaten": "3214",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aad5"
+  },
+  "id": "32.15",
+  "kode": "3215",
+  "nama": "Kab. Karawang",
+  "level": 2,
+  "provinsi_id": "12",
+  "kabupaten_id": "175",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "32",
+  "kode_kabupaten": "3215",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aad6"
+  },
+  "id": "32.16",
+  "kode": "3216",
+  "nama": "Kab. Bekasi",
+  "level": 2,
+  "provinsi_id": "12",
+  "kabupaten_id": "176",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "32",
+  "kode_kabupaten": "3216",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aad7"
+  },
+  "id": "32.17",
+  "kode": "3217",
+  "nama": "Kab. Bandung Barat",
+  "level": 2,
+  "provinsi_id": "12",
+  "kabupaten_id": "177",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "32",
+  "kode_kabupaten": "3217",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aad8"
+  },
+  "id": "32.18",
+  "kode": "3218",
+  "nama": "Kab. Pangandaran",
+  "level": 2,
+  "provinsi_id": "12",
+  "kabupaten_id": "178",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "32",
+  "kode_kabupaten": "3218",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aad9"
+  },
+  "id": "32.71",
+  "kode": "3271",
+  "nama": "Kota Bogor",
+  "level": 2,
+  "provinsi_id": "12",
+  "kabupaten_id": "179",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "32",
+  "kode_kabupaten": "3271",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aada"
+  },
+  "id": "32.72",
+  "kode": "3272",
+  "nama": "Kota Sukabumi",
+  "level": 2,
+  "provinsi_id": "12",
+  "kabupaten_id": "180",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "32",
+  "kode_kabupaten": "3272",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aadb"
+  },
+  "id": "32.73",
+  "kode": "3273",
+  "nama": "Kota Bandung",
+  "level": 2,
+  "provinsi_id": "12",
+  "kabupaten_id": "181",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "32",
+  "kode_kabupaten": "3273",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aadc"
+  },
+  "id": "32.74",
+  "kode": "3274",
+  "nama": "Kota Cirebon",
+  "level": 2,
+  "provinsi_id": "12",
+  "kabupaten_id": "182",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "32",
+  "kode_kabupaten": "3274",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aadd"
+  },
+  "id": "32.75",
+  "kode": "3275",
+  "nama": "Kota Bekasi",
+  "level": 2,
+  "provinsi_id": "12",
+  "kabupaten_id": "183",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "32",
+  "kode_kabupaten": "3275",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aade"
+  },
+  "id": "32.76",
+  "kode": "3276",
+  "nama": "Kota Depok",
+  "level": 2,
+  "provinsi_id": "12",
+  "kabupaten_id": "184",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "32",
+  "kode_kabupaten": "3276",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aadf"
+  },
+  "id": "32.77",
+  "kode": "3277",
+  "nama": "Kota Cimahi",
+  "level": 2,
+  "provinsi_id": "12",
+  "kabupaten_id": "185",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "32",
+  "kode_kabupaten": "3277",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aae0"
+  },
+  "id": "32.78",
+  "kode": "3278",
+  "nama": "Kota Tasikmalaya",
+  "level": 2,
+  "provinsi_id": "12",
+  "kabupaten_id": "186",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "32",
+  "kode_kabupaten": "3278",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aae1"
+  },
+  "id": "32.79",
+  "kode": "3279",
+  "nama": "Kota Banjar",
+  "level": 2,
+  "provinsi_id": "12",
+  "kabupaten_id": "187",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "32",
+  "kode_kabupaten": "3279",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aae2"
+  },
+  "id": "33",
+  "kode": "33",
+  "nama": "Jawa Tengah",
+  "level": 1,
+  "provinsi_id": "13",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aae3"
+  },
+  "id": "33.01",
+  "kode": "3301",
+  "nama": "Kab. Cilacap",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "188",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3301",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aae4"
+  },
+  "id": "33.02",
+  "kode": "3302",
+  "nama": "Kab. Banyumas",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "189",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3302",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aae5"
+  },
+  "id": "33.03",
+  "kode": "3303",
+  "nama": "Kab. Purbalingga",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "190",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3303",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aae6"
+  },
+  "id": "33.04",
+  "kode": "3304",
+  "nama": "Kab. Banjarnegara",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "191",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3304",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aae7"
+  },
+  "id": "33.05",
+  "kode": "3305",
+  "nama": "Kab. Kebumen",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "192",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3305",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aae8"
+  },
+  "id": "33.06",
+  "kode": "3306",
+  "nama": "Kab. Purworejo",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "193",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3306",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aae9"
+  },
+  "id": "33.07",
+  "kode": "3307",
+  "nama": "Kab. Wonosobo",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "194",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3307",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaea"
+  },
+  "id": "33.08",
+  "kode": "3308",
+  "nama": "Kab. Magelang",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "195",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3308",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaeb"
+  },
+  "id": "33.09",
+  "kode": "3309",
+  "nama": "Kab. Boyolali",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "196",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3309",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaec"
+  },
+  "id": "33.10",
+  "kode": "3310",
+  "nama": "Kab. Klaten",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "197",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3310",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaed"
+  },
+  "id": "33.11",
+  "kode": "3311",
+  "nama": "Kab. Sukoharjo",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "198",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3311",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaee"
+  },
+  "id": "33.12",
+  "kode": "3312",
+  "nama": "Kab. Wonogiri",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "199",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3312",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaef"
+  },
+  "id": "33.13",
+  "kode": "3313",
+  "nama": "Kab. Karanganyar",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "200",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3313",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaf0"
+  },
+  "id": "33.14",
+  "kode": "3314",
+  "nama": "Kab. Sragen",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "201",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3314",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaf1"
+  },
+  "id": "33.15",
+  "kode": "3315",
+  "nama": "Kab. Grobogan",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "202",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3315",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaf2"
+  },
+  "id": "33.16",
+  "kode": "3316",
+  "nama": "Kab. Blora",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "203",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3316",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaf3"
+  },
+  "id": "33.17",
+  "kode": "3317",
+  "nama": "Kab. Rembang",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "204",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3317",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaf4"
+  },
+  "id": "33.18",
+  "kode": "3318",
+  "nama": "Kab. Pati",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "205",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3318",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaf5"
+  },
+  "id": "33.19",
+  "kode": "3319",
+  "nama": "Kab. Kudus",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "206",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3319",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaf6"
+  },
+  "id": "33.20",
+  "kode": "3320",
+  "nama": "Kab. Jepara",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "207",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3320",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaf7"
+  },
+  "id": "33.21",
+  "kode": "3321",
+  "nama": "Kab. Demak",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "208",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3321",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaf8"
+  },
+  "id": "33.22",
+  "kode": "3322",
+  "nama": "Kab. Semarang",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "209",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3322",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaf9"
+  },
+  "id": "33.23",
+  "kode": "3323",
+  "nama": "Kab. Temanggung",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "210",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3323",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aafa"
+  },
+  "id": "33.24",
+  "kode": "3324",
+  "nama": "Kab. Kendal",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "211",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3324",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aafb"
+  },
+  "id": "33.25",
+  "kode": "3325",
+  "nama": "Kab. Batang",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "212",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3325",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aafc"
+  },
+  "id": "33.26",
+  "kode": "3326",
+  "nama": "Kab. Pekalongan",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "213",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3326",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aafd"
+  },
+  "id": "33.27",
+  "kode": "3327",
+  "nama": "Kab. Pemalang",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "214",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3327",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aafe"
+  },
+  "id": "33.28",
+  "kode": "3328",
+  "nama": "Kab. Tegal",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "215",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3328",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aaff"
+  },
+  "id": "33.29",
+  "kode": "3329",
+  "nama": "Kab. Brebes",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "216",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3329",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab00"
+  },
+  "id": "33.71",
+  "kode": "3371",
+  "nama": "Kota Magelang",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "217",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3371",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab01"
+  },
+  "id": "33.72",
+  "kode": "3372",
+  "nama": "Kota Surakarta",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "218",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3372",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab02"
+  },
+  "id": "33.73",
+  "kode": "3373",
+  "nama": "Kota Salatiga",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "219",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3373",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab03"
+  },
+  "id": "33.74",
+  "kode": "3374",
+  "nama": "Kota Semarang",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "220",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3374",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab04"
+  },
+  "id": "33.75",
+  "kode": "3375",
+  "nama": "Kota Pekalongan",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "221",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3375",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab05"
+  },
+  "id": "33.76",
+  "kode": "3376",
+  "nama": "Kota Tegal",
+  "level": 2,
+  "provinsi_id": "13",
+  "kabupaten_id": "222",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "33",
+  "kode_kabupaten": "3376",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab06"
+  },
+  "id": "34",
+  "kode": "34",
+  "nama": "DI Yogyakarta",
+  "level": 1,
+  "provinsi_id": "14",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "34",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab07"
+  },
+  "id": "34.01",
+  "kode": "3401",
+  "nama": "Kab. Kulon Progo",
+  "level": 2,
+  "provinsi_id": "14",
+  "kabupaten_id": "223",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "34",
+  "kode_kabupaten": "3401",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab08"
+  },
+  "id": "34.02",
+  "kode": "3402",
+  "nama": "Kab. Bantul",
+  "level": 2,
+  "provinsi_id": "14",
+  "kabupaten_id": "224",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "34",
+  "kode_kabupaten": "3402",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab09"
+  },
+  "id": "34.03",
+  "kode": "3403",
+  "nama": "Kab. Gunung Kidul",
+  "level": 2,
+  "provinsi_id": "14",
+  "kabupaten_id": "225",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "34",
+  "kode_kabupaten": "3403",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab0a"
+  },
+  "id": "34.04",
+  "kode": "3404",
+  "nama": "Kab. Sleman",
+  "level": 2,
+  "provinsi_id": "14",
+  "kabupaten_id": "226",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "34",
+  "kode_kabupaten": "3404",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab0b"
+  },
+  "id": "34.71",
+  "kode": "3471",
+  "nama": "Kota Yogyakarta",
+  "level": 2,
+  "provinsi_id": "14",
+  "kabupaten_id": "227",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "34",
+  "kode_kabupaten": "3471",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab0c"
+  },
+  "id": "35",
+  "kode": "35",
+  "nama": "Jawa Timur",
+  "level": 1,
+  "provinsi_id": "15",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab0d"
+  },
+  "id": "35.01",
+  "kode": "3501",
+  "nama": "Kab. Pacitan",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "228",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3501",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab0e"
+  },
+  "id": "35.02",
+  "kode": "3502",
+  "nama": "Kab. Ponorogo",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "229",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3502",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab0f"
+  },
+  "id": "35.03",
+  "kode": "3503",
+  "nama": "Kab. Trenggalek",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "230",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3503",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab10"
+  },
+  "id": "35.04",
+  "kode": "3504",
+  "nama": "Kab. Tulungagung",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "231",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3504",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab11"
+  },
+  "id": "35.05",
+  "kode": "3505",
+  "nama": "Kab. Blitar",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "232",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3505",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab12"
+  },
+  "id": "35.06",
+  "kode": "3506",
+  "nama": "Kab. Kediri",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "233",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3506",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab13"
+  },
+  "id": "35.07",
+  "kode": "3507",
+  "nama": "Kab. Malang",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "234",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3507",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab14"
+  },
+  "id": "35.08",
+  "kode": "3508",
+  "nama": "Kab. Lumajang",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "235",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3508",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab15"
+  },
+  "id": "35.09",
+  "kode": "3509",
+  "nama": "Kab. Jember",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "236",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3509",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab16"
+  },
+  "id": "35.10",
+  "kode": "3510",
+  "nama": "Kab. Banyuwangi",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "237",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3510",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab17"
+  },
+  "id": "35.11",
+  "kode": "3511",
+  "nama": "Kab. Bondowoso",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "238",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3511",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab18"
+  },
+  "id": "35.12",
+  "kode": "3512",
+  "nama": "Kab. Situbondo",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "239",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3512",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab19"
+  },
+  "id": "35.13",
+  "kode": "3513",
+  "nama": "Kab. Probolinggo",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "240",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3513",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab1a"
+  },
+  "id": "35.14",
+  "kode": "3514",
+  "nama": "Kab. Pasuruan",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "241",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3514",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab1b"
+  },
+  "id": "35.15",
+  "kode": "3515",
+  "nama": "Kab. Sidoarjo",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "242",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3515",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab1c"
+  },
+  "id": "35.16",
+  "kode": "3516",
+  "nama": "Kab. Mojokerto",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "243",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3516",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab1d"
+  },
+  "id": "35.17",
+  "kode": "3517",
+  "nama": "Kab. Jombang",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "244",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3517",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab1e"
+  },
+  "id": "35.18",
+  "kode": "3518",
+  "nama": "Kab. Nganjuk",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "245",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3518",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab1f"
+  },
+  "id": "35.19",
+  "kode": "3519",
+  "nama": "Kab. Madiun",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "246",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3519",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab20"
+  },
+  "id": "35.20",
+  "kode": "3520",
+  "nama": "Kab. Magetan",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "247",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3520",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab21"
+  },
+  "id": "35.21",
+  "kode": "3521",
+  "nama": "Kab. Ngawi",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "248",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3521",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab22"
+  },
+  "id": "35.22",
+  "kode": "3522",
+  "nama": "Kab. Bojonegoro",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "249",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3522",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab23"
+  },
+  "id": "35.23",
+  "kode": "3523",
+  "nama": "Kab. Tuban",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "250",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3523",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab24"
+  },
+  "id": "35.24",
+  "kode": "3524",
+  "nama": "Kab. Lamongan",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "251",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3524",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab25"
+  },
+  "id": "35.25",
+  "kode": "3525",
+  "nama": "Kab. Gresik",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "252",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3525",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab26"
+  },
+  "id": "35.26",
+  "kode": "3526",
+  "nama": "Kab. Bangkalan",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "253",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3526",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab27"
+  },
+  "id": "35.27",
+  "kode": "3527",
+  "nama": "Kab. Sampang",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "254",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3527",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab28"
+  },
+  "id": "35.28",
+  "kode": "3528",
+  "nama": "Kab. Pamekasan",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "255",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3528",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab29"
+  },
+  "id": "35.29",
+  "kode": "3529",
+  "nama": "Kab. Sumenep",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "256",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3529",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab2a"
+  },
+  "id": "35.71",
+  "kode": "3571",
+  "nama": "Kota Kediri",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "257",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3571",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab2b"
+  },
+  "id": "35.72",
+  "kode": "3572",
+  "nama": "Kota Blitar",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "258",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3572",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab2c"
+  },
+  "id": "35.73",
+  "kode": "3573",
+  "nama": "Kota Malang",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "259",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3573",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab2d"
+  },
+  "id": "35.74",
+  "kode": "3574",
+  "nama": "Kota Probolinggo",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "260",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3574",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab2e"
+  },
+  "id": "35.75",
+  "kode": "3575",
+  "nama": "Kota Pasuruan",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "261",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3575",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab2f"
+  },
+  "id": "35.76",
+  "kode": "3576",
+  "nama": "Kota Mojokerto",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "262",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3576",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab30"
+  },
+  "id": "35.77",
+  "kode": "3577",
+  "nama": "Kota Madiun",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "263",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3577",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab31"
+  },
+  "id": "35.78",
+  "kode": "3578",
+  "nama": "Kota Surabaya",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "264",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3578",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab32"
+  },
+  "id": "35.79",
+  "kode": "3579",
+  "nama": "Kota Batu",
+  "level": 2,
+  "provinsi_id": "15",
+  "kabupaten_id": "265",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "35",
+  "kode_kabupaten": "3579",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab33"
+  },
+  "id": "36",
+  "kode": "36",
+  "nama": "Banten",
+  "level": 1,
+  "provinsi_id": "16",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "36",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab34"
+  },
+  "id": "36.01",
+  "kode": "3601",
+  "nama": "Kab. Pandeglang",
+  "level": 2,
+  "provinsi_id": "16",
+  "kabupaten_id": "266",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "36",
+  "kode_kabupaten": "3601",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab35"
+  },
+  "id": "36.02",
+  "kode": "3602",
+  "nama": "Kab. Lebak",
+  "level": 2,
+  "provinsi_id": "16",
+  "kabupaten_id": "267",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "36",
+  "kode_kabupaten": "3602",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab36"
+  },
+  "id": "36.03",
+  "kode": "3603",
+  "nama": "Kab. Tangerang",
+  "level": 2,
+  "provinsi_id": "16",
+  "kabupaten_id": "268",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "36",
+  "kode_kabupaten": "3603",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab37"
+  },
+  "id": "36.04",
+  "kode": "3604",
+  "nama": "Kab. Serang",
+  "level": 2,
+  "provinsi_id": "16",
+  "kabupaten_id": "269",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "36",
+  "kode_kabupaten": "3604",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab38"
+  },
+  "id": "36.71",
+  "kode": "3671",
+  "nama": "Kota Tangerang",
+  "level": 2,
+  "provinsi_id": "16",
+  "kabupaten_id": "270",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "36",
+  "kode_kabupaten": "3671",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab39"
+  },
+  "id": "36.72",
+  "kode": "3672",
+  "nama": "Kota Cilegon",
+  "level": 2,
+  "provinsi_id": "16",
+  "kabupaten_id": "271",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "36",
+  "kode_kabupaten": "3672",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab3a"
+  },
+  "id": "36.73",
+  "kode": "3673",
+  "nama": "Kota Serang",
+  "level": 2,
+  "provinsi_id": "16",
+  "kabupaten_id": "272",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "36",
+  "kode_kabupaten": "3673",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab3b"
+  },
+  "id": "36.74",
+  "kode": "3674",
+  "nama": "Kota Tangerang Selatan",
+  "level": 2,
+  "provinsi_id": "16",
+  "kabupaten_id": "273",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "36",
+  "kode_kabupaten": "3674",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab3c"
+  },
+  "id": "51",
+  "kode": "51",
+  "nama": "Bali",
+  "level": 1,
+  "provinsi_id": "17",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "51",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab3d"
+  },
+  "id": "51.01",
+  "kode": "5101",
+  "nama": "Kab. Jembrana",
+  "level": 2,
+  "provinsi_id": "17",
+  "kabupaten_id": "274",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "51",
+  "kode_kabupaten": "5101",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab3e"
+  },
+  "id": "51.02",
+  "kode": "5102",
+  "nama": "Kab. Tabanan",
+  "level": 2,
+  "provinsi_id": "17",
+  "kabupaten_id": "275",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "51",
+  "kode_kabupaten": "5102",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab3f"
+  },
+  "id": "51.03",
+  "kode": "5103",
+  "nama": "Kab. Badung",
+  "level": 2,
+  "provinsi_id": "17",
+  "kabupaten_id": "276",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "51",
+  "kode_kabupaten": "5103",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab40"
+  },
+  "id": "51.04",
+  "kode": "5104",
+  "nama": "Kab. Gianyar",
+  "level": 2,
+  "provinsi_id": "17",
+  "kabupaten_id": "277",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "51",
+  "kode_kabupaten": "5104",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab41"
+  },
+  "id": "51.05",
+  "kode": "5105",
+  "nama": "Kab. Klungkung",
+  "level": 2,
+  "provinsi_id": "17",
+  "kabupaten_id": "278",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "51",
+  "kode_kabupaten": "5105",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab42"
+  },
+  "id": "51.06",
+  "kode": "5106",
+  "nama": "Kab. Bangli",
+  "level": 2,
+  "provinsi_id": "17",
+  "kabupaten_id": "279",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "51",
+  "kode_kabupaten": "5106",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab43"
+  },
+  "id": "51.07",
+  "kode": "5107",
+  "nama": "Kab. Karangasem",
+  "level": 2,
+  "provinsi_id": "17",
+  "kabupaten_id": "280",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "51",
+  "kode_kabupaten": "5107",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab44"
+  },
+  "id": "51.08",
+  "kode": "5108",
+  "nama": "Kab. Buleleng",
+  "level": 2,
+  "provinsi_id": "17",
+  "kabupaten_id": "281",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "51",
+  "kode_kabupaten": "5108",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab45"
+  },
+  "id": "51.71",
+  "kode": "5171",
+  "nama": "Kota Denpasar",
+  "level": 2,
+  "provinsi_id": "17",
+  "kabupaten_id": "282",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "51",
+  "kode_kabupaten": "5171",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab46"
+  },
+  "id": "52",
+  "kode": "52",
+  "nama": "Nusa Tenggara Barat",
+  "level": 1,
+  "provinsi_id": "18",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "52",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab47"
+  },
+  "id": "52.01",
+  "kode": "5201",
+  "nama": "Kab. Lombok Barat",
+  "level": 2,
+  "provinsi_id": "18",
+  "kabupaten_id": "283",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "52",
+  "kode_kabupaten": "5201",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab48"
+  },
+  "id": "52.02",
+  "kode": "5202",
+  "nama": "Kab. Lombok Tengah",
+  "level": 2,
+  "provinsi_id": "18",
+  "kabupaten_id": "284",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "52",
+  "kode_kabupaten": "5202",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab49"
+  },
+  "id": "52.03",
+  "kode": "5203",
+  "nama": "Kab. Lombok Timur",
+  "level": 2,
+  "provinsi_id": "18",
+  "kabupaten_id": "285",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "52",
+  "kode_kabupaten": "5203",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab4a"
+  },
+  "id": "52.04",
+  "kode": "5204",
+  "nama": "Kab. Sumbawa",
+  "level": 2,
+  "provinsi_id": "18",
+  "kabupaten_id": "286",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "52",
+  "kode_kabupaten": "5204",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab4b"
+  },
+  "id": "52.05",
+  "kode": "5205",
+  "nama": "Kab. Dompu",
+  "level": 2,
+  "provinsi_id": "18",
+  "kabupaten_id": "287",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "52",
+  "kode_kabupaten": "5205",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab4c"
+  },
+  "id": "52.06",
+  "kode": "5206",
+  "nama": "Kab. Bima",
+  "level": 2,
+  "provinsi_id": "18",
+  "kabupaten_id": "288",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "52",
+  "kode_kabupaten": "5206",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab4d"
+  },
+  "id": "52.07",
+  "kode": "5207",
+  "nama": "Kab. Sumbawa Barat",
+  "level": 2,
+  "provinsi_id": "18",
+  "kabupaten_id": "289",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "52",
+  "kode_kabupaten": "5207",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab4e"
+  },
+  "id": "52.08",
+  "kode": "5208",
+  "nama": "Kab. Lombok Utara",
+  "level": 2,
+  "provinsi_id": "18",
+  "kabupaten_id": "290",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "52",
+  "kode_kabupaten": "5208",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab4f"
+  },
+  "id": "52.71",
+  "kode": "5271",
+  "nama": "Kota Mataram",
+  "level": 2,
+  "provinsi_id": "18",
+  "kabupaten_id": "291",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "52",
+  "kode_kabupaten": "5271",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab50"
+  },
+  "id": "52.72",
+  "kode": "5272",
+  "nama": "Kota Bima",
+  "level": 2,
+  "provinsi_id": "18",
+  "kabupaten_id": "292",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "52",
+  "kode_kabupaten": "5272",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab51"
+  },
+  "id": "53",
+  "kode": "53",
+  "nama": "Nusa Tenggara Timur",
+  "level": 1,
+  "provinsi_id": "19",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "53",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab52"
+  },
+  "id": "53.01",
+  "kode": "5303",
+  "nama": "Kab. Kupang",
+  "level": 2,
+  "provinsi_id": "19",
+  "kabupaten_id": "295",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "53",
+  "kode_kabupaten": "5301",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab53"
+  },
+  "id": "53.02",
+  "kode": "5304",
+  "nama": "Kab. Timor Tengah Selatan",
+  "level": 2,
+  "provinsi_id": "19",
+  "kabupaten_id": "296",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "53",
+  "kode_kabupaten": "5302",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab54"
+  },
+  "id": "53.03",
+  "kode": "5305",
+  "nama": "Kab. Timor Tengah Utara",
+  "level": 2,
+  "provinsi_id": "19",
+  "kabupaten_id": "297",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "53",
+  "kode_kabupaten": "5303",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab55"
+  },
+  "id": "53.04",
+  "kode": "5306",
+  "nama": "Kab. Belu",
+  "level": 2,
+  "provinsi_id": "19",
+  "kabupaten_id": "298",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "53",
+  "kode_kabupaten": "5304",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab56"
+  },
+  "id": "53.05",
+  "kode": "5307",
+  "nama": "Kab. Alor",
+  "level": 2,
+  "provinsi_id": "19",
+  "kabupaten_id": "299",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "53",
+  "kode_kabupaten": "5305",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab57"
+  },
+  "id": "53.06",
+  "kode": "5309",
+  "nama": "Kab. Flores Timur",
+  "level": 2,
+  "provinsi_id": "19",
+  "kabupaten_id": "301",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "53",
+  "kode_kabupaten": "5306",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab58"
+  },
+  "id": "53.07",
+  "kode": "5310",
+  "nama": "Kab. Sikka",
+  "level": 2,
+  "provinsi_id": "19",
+  "kabupaten_id": "302",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "53",
+  "kode_kabupaten": "5307",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab59"
+  },
+  "id": "53.08",
+  "kode": "5311",
+  "nama": "Kab. Ende",
+  "level": 2,
+  "provinsi_id": "19",
+  "kabupaten_id": "303",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "53",
+  "kode_kabupaten": "5308",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab5a"
+  },
+  "id": "53.09",
+  "kode": "5312",
+  "nama": "Kab. Ngada",
+  "level": 2,
+  "provinsi_id": "19",
+  "kabupaten_id": "304",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "53",
+  "kode_kabupaten": "5309",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab5b"
+  },
+  "id": "53.10",
+  "kode": "5313",
+  "nama": "Kab. Manggarai",
+  "level": 2,
+  "provinsi_id": "19",
+  "kabupaten_id": "305",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "53",
+  "kode_kabupaten": "5310",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab5c"
+  },
+  "id": "53.11",
+  "kode": "5302",
+  "nama": "Kab. Sumba Timur",
+  "level": 2,
+  "provinsi_id": "19",
+  "kabupaten_id": "294",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "53",
+  "kode_kabupaten": "5311",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab5d"
+  },
+  "id": "53.12",
+  "kode": "5301",
+  "nama": "Kab. Sumba Barat",
+  "level": 2,
+  "provinsi_id": "19",
+  "kabupaten_id": "293",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "53",
+  "kode_kabupaten": "5312",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab5e"
+  },
+  "id": "53.13",
+  "kode": "5308",
+  "nama": "Kab. Lembata",
+  "level": 2,
+  "provinsi_id": "19",
+  "kabupaten_id": "300",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "53",
+  "kode_kabupaten": "5313",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab5f"
+  },
+  "id": "53.14",
+  "kode": "5314",
+  "nama": "Kab. Rote Ndao",
+  "level": 2,
+  "provinsi_id": "19",
+  "kabupaten_id": "306",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "53",
+  "kode_kabupaten": "5314",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab60"
+  },
+  "id": "53.15",
+  "kode": "5315",
+  "nama": "Kab. Manggarai Barat",
+  "level": 2,
+  "provinsi_id": "19",
+  "kabupaten_id": "307",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "53",
+  "kode_kabupaten": "5315",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab61"
+  },
+  "id": "53.16",
+  "kode": "5318",
+  "nama": "Kab. Nagekeo",
+  "level": 2,
+  "provinsi_id": "19",
+  "kabupaten_id": "310",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "53",
+  "kode_kabupaten": "5316",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab62"
+  },
+  "id": "53.17",
+  "kode": "5316",
+  "nama": "Kab. Sumba Tengah",
+  "level": 2,
+  "provinsi_id": "19",
+  "kabupaten_id": "308",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "53",
+  "kode_kabupaten": "5317",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab63"
+  },
+  "id": "53.18",
+  "kode": "5317",
+  "nama": "Kab. Sumba Barat Daya",
+  "level": 2,
+  "provinsi_id": "19",
+  "kabupaten_id": "309",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "53",
+  "kode_kabupaten": "5318",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab64"
+  },
+  "id": "53.19",
+  "kode": "5319",
+  "nama": "Kab. Manggarai Timur",
+  "level": 2,
+  "provinsi_id": "19",
+  "kabupaten_id": "311",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "53",
+  "kode_kabupaten": "5319",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab65"
+  },
+  "id": "53.20",
+  "kode": "5320",
+  "nama": "Kab. Sabu Raijua",
+  "level": 2,
+  "provinsi_id": "19",
+  "kabupaten_id": "312",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "53",
+  "kode_kabupaten": "5320",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab66"
+  },
+  "id": "53.21",
+  "kode": "5321",
+  "nama": "Kab. Malaka",
+  "level": 2,
+  "provinsi_id": "19",
+  "kabupaten_id": "313",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "53",
+  "kode_kabupaten": "5321",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab67"
+  },
+  "id": "53.71",
+  "kode": "5371",
+  "nama": "Kota Kupang",
+  "level": 2,
+  "provinsi_id": "19",
+  "kabupaten_id": "314",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "53",
+  "kode_kabupaten": "5371",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab68"
+  },
+  "id": "61",
+  "kode": "61",
+  "nama": "Kalimantan Barat",
+  "level": 1,
+  "provinsi_id": "20",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "61",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab69"
+  },
+  "id": "61.01",
+  "kode": "6101",
+  "nama": "Kab. Sambas",
+  "level": 2,
+  "provinsi_id": "20",
+  "kabupaten_id": "315",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "61",
+  "kode_kabupaten": "6101",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab6a"
+  },
+  "id": "61.02",
+  "kode": "6104",
+  "nama": "Kab. Mempawah",
+  "level": 2,
+  "provinsi_id": "20",
+  "kabupaten_id": "318",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "61",
+  "kode_kabupaten": "6102",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab6b"
+  },
+  "id": "61.03",
+  "kode": "6105",
+  "nama": "Kab. Sanggau",
+  "level": 2,
+  "provinsi_id": "20",
+  "kabupaten_id": "319",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "61",
+  "kode_kabupaten": "6103",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab6c"
+  },
+  "id": "61.04",
+  "kode": "6106",
+  "nama": "Kab. Ketapang",
+  "level": 2,
+  "provinsi_id": "20",
+  "kabupaten_id": "320",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "61",
+  "kode_kabupaten": "6104",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab6d"
+  },
+  "id": "61.05",
+  "kode": "6107",
+  "nama": "Kab. Sintang",
+  "level": 2,
+  "provinsi_id": "20",
+  "kabupaten_id": "321",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "61",
+  "kode_kabupaten": "6105",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab6e"
+  },
+  "id": "61.06",
+  "kode": "6108",
+  "nama": "Kab. Kapuas Hulu",
+  "level": 2,
+  "provinsi_id": "20",
+  "kabupaten_id": "322",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "61",
+  "kode_kabupaten": "6106",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab6f"
+  },
+  "id": "61.07",
+  "kode": "6102",
+  "nama": "Kab. Bengkayang",
+  "level": 2,
+  "provinsi_id": "20",
+  "kabupaten_id": "316",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "61",
+  "kode_kabupaten": "6107",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab70"
+  },
+  "id": "61.08",
+  "kode": "6103",
+  "nama": "Kab. Landak",
+  "level": 2,
+  "provinsi_id": "20",
+  "kabupaten_id": "317",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "61",
+  "kode_kabupaten": "6108",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab71"
+  },
+  "id": "61.09",
+  "kode": "6109",
+  "nama": "Kab. Sekadau",
+  "level": 2,
+  "provinsi_id": "20",
+  "kabupaten_id": "323",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "61",
+  "kode_kabupaten": "6109",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab72"
+  },
+  "id": "61.10",
+  "kode": "6110",
+  "nama": "Kab. Melawi",
+  "level": 2,
+  "provinsi_id": "20",
+  "kabupaten_id": "324",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "61",
+  "kode_kabupaten": "6110",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab73"
+  },
+  "id": "61.11",
+  "kode": "6111",
+  "nama": "Kab. Kayong Utara",
+  "level": 2,
+  "provinsi_id": "20",
+  "kabupaten_id": "325",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "61",
+  "kode_kabupaten": "6111",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab74"
+  },
+  "id": "61.12",
+  "kode": "6112",
+  "nama": "Kab. Kubu Raya",
+  "level": 2,
+  "provinsi_id": "20",
+  "kabupaten_id": "326",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "61",
+  "kode_kabupaten": "6112",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab75"
+  },
+  "id": "61.71",
+  "kode": "6171",
+  "nama": "Kota Pontianak",
+  "level": 2,
+  "provinsi_id": "20",
+  "kabupaten_id": "327",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "61",
+  "kode_kabupaten": "6171",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab76"
+  },
+  "id": "61.72",
+  "kode": "6172",
+  "nama": "Kota Singkawang",
+  "level": 2,
+  "provinsi_id": "20",
+  "kabupaten_id": "328",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "61",
+  "kode_kabupaten": "6172",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab77"
+  },
+  "id": "62",
+  "kode": "62",
+  "nama": "Kalimantan Tengah",
+  "level": 1,
+  "provinsi_id": "21",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "62",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab78"
+  },
+  "id": "62.01",
+  "kode": "6201",
+  "nama": "Kab. Kotawaringin Barat",
+  "level": 2,
+  "provinsi_id": "21",
+  "kabupaten_id": "329",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "62",
+  "kode_kabupaten": "6201",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab79"
+  },
+  "id": "62.02",
+  "kode": "6202",
+  "nama": "Kab. Kotawaringin Timur",
+  "level": 2,
+  "provinsi_id": "21",
+  "kabupaten_id": "330",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "62",
+  "kode_kabupaten": "6202",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab7a"
+  },
+  "id": "62.03",
+  "kode": "6203",
+  "nama": "Kab. Kapuas",
+  "level": 2,
+  "provinsi_id": "21",
+  "kabupaten_id": "331",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "62",
+  "kode_kabupaten": "6203",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab7b"
+  },
+  "id": "62.04",
+  "kode": "6204",
+  "nama": "Kab. Barito Selatan",
+  "level": 2,
+  "provinsi_id": "21",
+  "kabupaten_id": "332",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "62",
+  "kode_kabupaten": "6204",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab7c"
+  },
+  "id": "62.05",
+  "kode": "6205",
+  "nama": "Kab. Barito Utara",
+  "level": 2,
+  "provinsi_id": "21",
+  "kabupaten_id": "333",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "62",
+  "kode_kabupaten": "6205",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab7d"
+  },
+  "id": "62.06",
+  "kode": "6209",
+  "nama": "Kab. Katingan",
+  "level": 2,
+  "provinsi_id": "21",
+  "kabupaten_id": "337",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "62",
+  "kode_kabupaten": "6206",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab7e"
+  },
+  "id": "62.07",
+  "kode": "6208",
+  "nama": "Kab. Seruyan",
+  "level": 2,
+  "provinsi_id": "21",
+  "kabupaten_id": "336",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "62",
+  "kode_kabupaten": "6207",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab7f"
+  },
+  "id": "62.08",
+  "kode": "6206",
+  "nama": "Kab. Sukamara",
+  "level": 2,
+  "provinsi_id": "21",
+  "kabupaten_id": "334",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "62",
+  "kode_kabupaten": "6208",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab80"
+  },
+  "id": "62.09",
+  "kode": "6207",
+  "nama": "Kab. Lamandau",
+  "level": 2,
+  "provinsi_id": "21",
+  "kabupaten_id": "335",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "62",
+  "kode_kabupaten": "6209",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab81"
+  },
+  "id": "62.10",
+  "kode": "6211",
+  "nama": "Kab. Gunung Mas",
+  "level": 2,
+  "provinsi_id": "21",
+  "kabupaten_id": "339",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "62",
+  "kode_kabupaten": "6210",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab82"
+  },
+  "id": "62.11",
+  "kode": "6210",
+  "nama": "Kab. Pulang Pisau",
+  "level": 2,
+  "provinsi_id": "21",
+  "kabupaten_id": "338",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "62",
+  "kode_kabupaten": "6211",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab83"
+  },
+  "id": "62.12",
+  "kode": "6213",
+  "nama": "Kab. Murung Raya",
+  "level": 2,
+  "provinsi_id": "21",
+  "kabupaten_id": "341",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "62",
+  "kode_kabupaten": "6212",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab84"
+  },
+  "id": "62.13",
+  "kode": "6212",
+  "nama": "Kab. Barito Timur",
+  "level": 2,
+  "provinsi_id": "21",
+  "kabupaten_id": "340",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "62",
+  "kode_kabupaten": "6213",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab85"
+  },
+  "id": "62.71",
+  "kode": "6271",
+  "nama": "Kota Palangka Raya",
+  "level": 2,
+  "provinsi_id": "21",
+  "kabupaten_id": "342",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "62",
+  "kode_kabupaten": "6271",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab86"
+  },
+  "id": "63",
+  "kode": "63",
+  "nama": "Kalimantan Selatan",
+  "level": 1,
+  "provinsi_id": "22",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "63",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab87"
+  },
+  "id": "63.01",
+  "kode": "6301",
+  "nama": "Kab. Tanah Laut",
+  "level": 2,
+  "provinsi_id": "22",
+  "kabupaten_id": "343",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "63",
+  "kode_kabupaten": "6301",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab88"
+  },
+  "id": "63.02",
+  "kode": "6302",
+  "nama": "Kab. Kotabaru",
+  "level": 2,
+  "provinsi_id": "22",
+  "kabupaten_id": "344",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "63",
+  "kode_kabupaten": "6302",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab89"
+  },
+  "id": "63.03",
+  "kode": "6303",
+  "nama": "Kab. Banjar",
+  "level": 2,
+  "provinsi_id": "22",
+  "kabupaten_id": "345",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "63",
+  "kode_kabupaten": "6303",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab8a"
+  },
+  "id": "63.04",
+  "kode": "6304",
+  "nama": "Kab. Barito Kuala",
+  "level": 2,
+  "provinsi_id": "22",
+  "kabupaten_id": "346",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "63",
+  "kode_kabupaten": "6304",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab8b"
+  },
+  "id": "63.05",
+  "kode": "6305",
+  "nama": "Kab. Tapin",
+  "level": 2,
+  "provinsi_id": "22",
+  "kabupaten_id": "347",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "63",
+  "kode_kabupaten": "6305",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab8c"
+  },
+  "id": "63.06",
+  "kode": "6306",
+  "nama": "Kab. Hulu Sungai Selatan",
+  "level": 2,
+  "provinsi_id": "22",
+  "kabupaten_id": "348",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "63",
+  "kode_kabupaten": "6306",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab8d"
+  },
+  "id": "63.07",
+  "kode": "6307",
+  "nama": "Kab. Hulu Sungai Tengah",
+  "level": 2,
+  "provinsi_id": "22",
+  "kabupaten_id": "349",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "63",
+  "kode_kabupaten": "6307",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab8e"
+  },
+  "id": "63.08",
+  "kode": "6308",
+  "nama": "Kab. Hulu Sungai Utara",
+  "level": 2,
+  "provinsi_id": "22",
+  "kabupaten_id": "350",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "63",
+  "kode_kabupaten": "6308",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab8f"
+  },
+  "id": "63.09",
+  "kode": "6309",
+  "nama": "Kab. Tabalong",
+  "level": 2,
+  "provinsi_id": "22",
+  "kabupaten_id": "351",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "63",
+  "kode_kabupaten": "6309",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab90"
+  },
+  "id": "63.10",
+  "kode": "6310",
+  "nama": "Kab. Tanah Bumbu",
+  "level": 2,
+  "provinsi_id": "22",
+  "kabupaten_id": "352",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "63",
+  "kode_kabupaten": "6310",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab91"
+  },
+  "id": "63.11",
+  "kode": "6311",
+  "nama": "Kab. Balangan",
+  "level": 2,
+  "provinsi_id": "22",
+  "kabupaten_id": "353",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "63",
+  "kode_kabupaten": "6311",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab92"
+  },
+  "id": "63.71",
+  "kode": "6371",
+  "nama": "Kota Banjarmasin",
+  "level": 2,
+  "provinsi_id": "22",
+  "kabupaten_id": "354",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "63",
+  "kode_kabupaten": "6371",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab93"
+  },
+  "id": "63.72",
+  "kode": "6372",
+  "nama": "Kota Banjar Baru",
+  "level": 2,
+  "provinsi_id": "22",
+  "kabupaten_id": "355",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "63",
+  "kode_kabupaten": "6372",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab94"
+  },
+  "id": "64",
+  "kode": "64",
+  "nama": "Kalimantan Timur",
+  "level": 1,
+  "provinsi_id": "23",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "64",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab95"
+  },
+  "id": "64.01",
+  "kode": "6401",
+  "nama": "Kab. Paser",
+  "level": 2,
+  "provinsi_id": "23",
+  "kabupaten_id": "356",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "64",
+  "kode_kabupaten": "6401",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab96"
+  },
+  "id": "64.02",
+  "kode": "6403",
+  "nama": "Kab. Kutai Kartanegara",
+  "level": 2,
+  "provinsi_id": "23",
+  "kabupaten_id": "358",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "64",
+  "kode_kabupaten": "6402",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab97"
+  },
+  "id": "64.03",
+  "kode": "6405",
+  "nama": "Kab. Berau",
+  "level": 2,
+  "provinsi_id": "23",
+  "kabupaten_id": "360",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "64",
+  "kode_kabupaten": "6403",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab98"
+  },
+  "id": "64.07",
+  "kode": "6402",
+  "nama": "Kab. Kutai Barat",
+  "level": 2,
+  "provinsi_id": "23",
+  "kabupaten_id": "357",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "64",
+  "kode_kabupaten": "6407",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab99"
+  },
+  "id": "64.08",
+  "kode": "6404",
+  "nama": "Kab. Kutai Timur",
+  "level": 2,
+  "provinsi_id": "23",
+  "kabupaten_id": "359",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "64",
+  "kode_kabupaten": "6408",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab9a"
+  },
+  "id": "64.09",
+  "kode": "6409",
+  "nama": "Kab. Penajam Paser Utara",
+  "level": 2,
+  "provinsi_id": "23",
+  "kabupaten_id": "361",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "64",
+  "kode_kabupaten": "6409",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab9b"
+  },
+  "id": "64.11",
+  "kode": "6411",
+  "nama": "Kab. Mahakam Hulu",
+  "level": 2,
+  "provinsi_id": "23",
+  "kabupaten_id": "362",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "64",
+  "kode_kabupaten": "6411",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab9c"
+  },
+  "id": "64.71",
+  "kode": "6471",
+  "nama": "Kota Balikpapan",
+  "level": 2,
+  "provinsi_id": "23",
+  "kabupaten_id": "363",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "64",
+  "kode_kabupaten": "6471",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab9d"
+  },
+  "id": "64.72",
+  "kode": "6472",
+  "nama": "Kota Samarinda",
+  "level": 2,
+  "provinsi_id": "23",
+  "kabupaten_id": "364",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "64",
+  "kode_kabupaten": "6472",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab9e"
+  },
+  "id": "64.74",
+  "kode": "6474",
+  "nama": "Kota Bontang",
+  "level": 2,
+  "provinsi_id": "23",
+  "kabupaten_id": "365",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "64",
+  "kode_kabupaten": "6474",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ab9f"
+  },
+  "id": "65",
+  "kode": "65",
+  "nama": "Kalimantan Utara",
+  "level": 1,
+  "provinsi_id": "24",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "65",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aba0"
+  },
+  "id": "65.01",
+  "kode": "6502",
+  "nama": "Kab. Bulungan",
+  "level": 2,
+  "provinsi_id": "24",
+  "kabupaten_id": "367",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "65",
+  "kode_kabupaten": "6501",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aba1"
+  },
+  "id": "65.02",
+  "kode": "6501",
+  "nama": "Kab. Malinau",
+  "level": 2,
+  "provinsi_id": "24",
+  "kabupaten_id": "366",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "65",
+  "kode_kabupaten": "6502",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aba2"
+  },
+  "id": "65.03",
+  "kode": "6504",
+  "nama": "Kab. Nunukan",
+  "level": 2,
+  "provinsi_id": "24",
+  "kabupaten_id": "369",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "65",
+  "kode_kabupaten": "6503",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aba3"
+  },
+  "id": "65.04",
+  "kode": "6503",
+  "nama": "Kab. Tana Tidung",
+  "level": 2,
+  "provinsi_id": "24",
+  "kabupaten_id": "368",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "65",
+  "kode_kabupaten": "6504",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aba4"
+  },
+  "id": "65.71",
+  "kode": "6571",
+  "nama": "Kota Tarakan",
+  "level": 2,
+  "provinsi_id": "24",
+  "kabupaten_id": "370",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "65",
+  "kode_kabupaten": "6571",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aba5"
+  },
+  "id": "71",
+  "kode": "71",
+  "nama": "Sulawesi Utara",
+  "level": 1,
+  "provinsi_id": "25",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "71",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aba6"
+  },
+  "id": "71.01",
+  "kode": "7101",
+  "nama": "Kab. Bolaang Mongondow",
+  "level": 2,
+  "provinsi_id": "25",
+  "kabupaten_id": "371",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "71",
+  "kode_kabupaten": "7101",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aba7"
+  },
+  "id": "71.02",
+  "kode": "7102",
+  "nama": "Kab. Minahasa",
+  "level": 2,
+  "provinsi_id": "25",
+  "kabupaten_id": "372",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "71",
+  "kode_kabupaten": "7102",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aba8"
+  },
+  "id": "71.03",
+  "kode": "7103",
+  "nama": "Kab. Kepulauan Sangihe",
+  "level": 2,
+  "provinsi_id": "25",
+  "kabupaten_id": "373",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "71",
+  "kode_kabupaten": "7103",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129aba9"
+  },
+  "id": "71.04",
+  "kode": "7104",
+  "nama": "Kab. Kepulauan Talaud",
+  "level": 2,
+  "provinsi_id": "25",
+  "kabupaten_id": "374",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "71",
+  "kode_kabupaten": "7104",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abaa"
+  },
+  "id": "71.05",
+  "kode": "7105",
+  "nama": "Kab. Minahasa Selatan",
+  "level": 2,
+  "provinsi_id": "25",
+  "kabupaten_id": "375",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "71",
+  "kode_kabupaten": "7105",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abab"
+  },
+  "id": "71.06",
+  "kode": "7106",
+  "nama": "Kab. Minahasa Utara",
+  "level": 2,
+  "provinsi_id": "25",
+  "kabupaten_id": "376",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "71",
+  "kode_kabupaten": "7106",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abac"
+  },
+  "id": "71.07",
+  "kode": "7109",
+  "nama": "Kab. Minahasa Tenggara",
+  "level": 2,
+  "provinsi_id": "25",
+  "kabupaten_id": "379",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "71",
+  "kode_kabupaten": "7107",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abad"
+  },
+  "id": "71.08",
+  "kode": "7107",
+  "nama": "Kab. Bolaang Mongondow Utara",
+  "level": 2,
+  "provinsi_id": "25",
+  "kabupaten_id": "377",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "71",
+  "kode_kabupaten": "7108",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abae"
+  },
+  "id": "71.09",
+  "kode": "7108",
+  "nama": "Kab. Kep. Siau Tagulandang Biaro",
+  "level": 2,
+  "provinsi_id": "25",
+  "kabupaten_id": "378",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "71",
+  "kode_kabupaten": "7109",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abaf"
+  },
+  "id": "71.10",
+  "kode": "7111",
+  "nama": "Kab. Bolaang Mongondow Timur",
+  "level": 2,
+  "provinsi_id": "25",
+  "kabupaten_id": "381",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "71",
+  "kode_kabupaten": "7110",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abb0"
+  },
+  "id": "71.11",
+  "kode": "7110",
+  "nama": "Kab. Bolaang Mongondow Selatan",
+  "level": 2,
+  "provinsi_id": "25",
+  "kabupaten_id": "380",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "71",
+  "kode_kabupaten": "7111",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abb1"
+  },
+  "id": "71.71",
+  "kode": "7171",
+  "nama": "Kota Manado",
+  "level": 2,
+  "provinsi_id": "25",
+  "kabupaten_id": "382",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "71",
+  "kode_kabupaten": "7171",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abb2"
+  },
+  "id": "71.72",
+  "kode": "7172",
+  "nama": "Kota Bitung",
+  "level": 2,
+  "provinsi_id": "25",
+  "kabupaten_id": "383",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "71",
+  "kode_kabupaten": "7172",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abb3"
+  },
+  "id": "71.73",
+  "kode": "7173",
+  "nama": "Kota Tomohon",
+  "level": 2,
+  "provinsi_id": "25",
+  "kabupaten_id": "384",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "71",
+  "kode_kabupaten": "7173",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abb4"
+  },
+  "id": "71.74",
+  "kode": "7174",
+  "nama": "Kota Kotamobagu",
+  "level": 2,
+  "provinsi_id": "25",
+  "kabupaten_id": "385",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "71",
+  "kode_kabupaten": "7174",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abb5"
+  },
+  "id": "72",
+  "kode": "72",
+  "nama": "Sulawesi Tengah",
+  "level": 1,
+  "provinsi_id": "26",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "72",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abb6"
+  },
+  "id": "72.01",
+  "kode": "7202",
+  "nama": "Kab. Banggai",
+  "level": 2,
+  "provinsi_id": "26",
+  "kabupaten_id": "387",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "72",
+  "kode_kabupaten": "7201",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abb7"
+  },
+  "id": "72.02",
+  "kode": "7204",
+  "nama": "Kab. Poso",
+  "level": 2,
+  "provinsi_id": "26",
+  "kabupaten_id": "389",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "72",
+  "kode_kabupaten": "7202",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abb8"
+  },
+  "id": "72.03",
+  "kode": "7205",
+  "nama": "Kab. Donggala",
+  "level": 2,
+  "provinsi_id": "26",
+  "kabupaten_id": "390",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "72",
+  "kode_kabupaten": "7203",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abb9"
+  },
+  "id": "72.04",
+  "kode": "7206",
+  "nama": "Kab. Toli-toli",
+  "level": 2,
+  "provinsi_id": "26",
+  "kabupaten_id": "391",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "72",
+  "kode_kabupaten": "7204",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abba"
+  },
+  "id": "72.05",
+  "kode": "7207",
+  "nama": "Kab. Buol",
+  "level": 2,
+  "provinsi_id": "26",
+  "kabupaten_id": "392",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "72",
+  "kode_kabupaten": "7205",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abbb"
+  },
+  "id": "72.06",
+  "kode": "7203",
+  "nama": "Kab. Morowali",
+  "level": 2,
+  "provinsi_id": "26",
+  "kabupaten_id": "388",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "72",
+  "kode_kabupaten": "7206",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abbc"
+  },
+  "id": "72.07",
+  "kode": "7201",
+  "nama": "Kab. Banggai Kepulauan",
+  "level": 2,
+  "provinsi_id": "26",
+  "kabupaten_id": "386",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "72",
+  "kode_kabupaten": "7207",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abbd"
+  },
+  "id": "72.08",
+  "kode": "7208",
+  "nama": "Kab. Parigi Moutong",
+  "level": 2,
+  "provinsi_id": "26",
+  "kabupaten_id": "393",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "72",
+  "kode_kabupaten": "7208",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abbe"
+  },
+  "id": "72.09",
+  "kode": "7209",
+  "nama": "Kab. Tojo Una-una",
+  "level": 2,
+  "provinsi_id": "26",
+  "kabupaten_id": "394",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "72",
+  "kode_kabupaten": "7209",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abbf"
+  },
+  "id": "72.10",
+  "kode": "7210",
+  "nama": "Kab. Sigi",
+  "level": 2,
+  "provinsi_id": "26",
+  "kabupaten_id": "395",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "72",
+  "kode_kabupaten": "7210",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abc0"
+  },
+  "id": "72.11",
+  "kode": "7211",
+  "nama": "Kab. Banggai Laut",
+  "level": 2,
+  "provinsi_id": "26",
+  "kabupaten_id": "396",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "72",
+  "kode_kabupaten": "7211",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abc1"
+  },
+  "id": "72.12",
+  "kode": "7212",
+  "nama": "Kab. Morowali Utara",
+  "level": 2,
+  "provinsi_id": "26",
+  "kabupaten_id": "397",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "72",
+  "kode_kabupaten": "7212",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abc2"
+  },
+  "id": "72.71",
+  "kode": "7271",
+  "nama": "Kota Palu",
+  "level": 2,
+  "provinsi_id": "26",
+  "kabupaten_id": "398",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "72",
+  "kode_kabupaten": "7271",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abc3"
+  },
+  "id": "73",
+  "kode": "73",
+  "nama": "Sulawesi Selatan",
+  "level": 1,
+  "provinsi_id": "27",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "73",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abc4"
+  },
+  "id": "73.01",
+  "kode": "7301",
+  "nama": "Kab. Kepulauan Selayar",
+  "level": 2,
+  "provinsi_id": "27",
+  "kabupaten_id": "399",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "73",
+  "kode_kabupaten": "7301",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abc5"
+  },
+  "id": "73.02",
+  "kode": "7302",
+  "nama": "Kab. Bulukumba",
+  "level": 2,
+  "provinsi_id": "27",
+  "kabupaten_id": "400",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "73",
+  "kode_kabupaten": "7302",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abc6"
+  },
+  "id": "73.03",
+  "kode": "7303",
+  "nama": "Kab. Bantaeng",
+  "level": 2,
+  "provinsi_id": "27",
+  "kabupaten_id": "401",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "73",
+  "kode_kabupaten": "7303",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abc7"
+  },
+  "id": "73.04",
+  "kode": "7304",
+  "nama": "Kab. Jeneponto",
+  "level": 2,
+  "provinsi_id": "27",
+  "kabupaten_id": "402",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "73",
+  "kode_kabupaten": "7304",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abc8"
+  },
+  "id": "73.05",
+  "kode": "7305",
+  "nama": "Kab. Takalar",
+  "level": 2,
+  "provinsi_id": "27",
+  "kabupaten_id": "403",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "73",
+  "kode_kabupaten": "7305",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abc9"
+  },
+  "id": "73.06",
+  "kode": "7306",
+  "nama": "Kab. Gowa",
+  "level": 2,
+  "provinsi_id": "27",
+  "kabupaten_id": "404",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "73",
+  "kode_kabupaten": "7306",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abca"
+  },
+  "id": "73.07",
+  "kode": "7307",
+  "nama": "Kab. Sinjai",
+  "level": 2,
+  "provinsi_id": "27",
+  "kabupaten_id": "405",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "73",
+  "kode_kabupaten": "7307",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abcb"
+  },
+  "id": "73.08",
+  "kode": "7311",
+  "nama": "Kab. Bone",
+  "level": 2,
+  "provinsi_id": "27",
+  "kabupaten_id": "409",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "73",
+  "kode_kabupaten": "7308",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abcc"
+  },
+  "id": "73.09",
+  "kode": "7308",
+  "nama": "Kab. Maros",
+  "level": 2,
+  "provinsi_id": "27",
+  "kabupaten_id": "406",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "73",
+  "kode_kabupaten": "7309",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abcd"
+  },
+  "id": "73.10",
+  "kode": "7309",
+  "nama": "Kab. Pangkajene Dan Kepulauan",
+  "level": 2,
+  "provinsi_id": "27",
+  "kabupaten_id": "407",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "73",
+  "kode_kabupaten": "7310",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abce"
+  },
+  "id": "73.11",
+  "kode": "7310",
+  "nama": "Kab. Barru",
+  "level": 2,
+  "provinsi_id": "27",
+  "kabupaten_id": "408",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "73",
+  "kode_kabupaten": "7311",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abcf"
+  },
+  "id": "73.12",
+  "kode": "7312",
+  "nama": "Kab. Soppeng",
+  "level": 2,
+  "provinsi_id": "27",
+  "kabupaten_id": "410",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "73",
+  "kode_kabupaten": "7312",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abd0"
+  },
+  "id": "73.13",
+  "kode": "7313",
+  "nama": "Kab. Wajo",
+  "level": 2,
+  "provinsi_id": "27",
+  "kabupaten_id": "411",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "73",
+  "kode_kabupaten": "7313",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abd1"
+  },
+  "id": "73.14",
+  "kode": "7314",
+  "nama": "Kab. Sidenreng Rappang",
+  "level": 2,
+  "provinsi_id": "27",
+  "kabupaten_id": "412",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "73",
+  "kode_kabupaten": "7314",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abd2"
+  },
+  "id": "73.15",
+  "kode": "7315",
+  "nama": "Kab. Pinrang",
+  "level": 2,
+  "provinsi_id": "27",
+  "kabupaten_id": "413",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "73",
+  "kode_kabupaten": "7315",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abd3"
+  },
+  "id": "73.16",
+  "kode": "7316",
+  "nama": "Kab. Enrekang",
+  "level": 2,
+  "provinsi_id": "27",
+  "kabupaten_id": "414",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "73",
+  "kode_kabupaten": "7316",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abd4"
+  },
+  "id": "73.17",
+  "kode": "7317",
+  "nama": "Kab. Luwu",
+  "level": 2,
+  "provinsi_id": "27",
+  "kabupaten_id": "415",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "73",
+  "kode_kabupaten": "7317",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abd5"
+  },
+  "id": "73.18",
+  "kode": "7318",
+  "nama": "Kab. Tana Toraja",
+  "level": 2,
+  "provinsi_id": "27",
+  "kabupaten_id": "416",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "73",
+  "kode_kabupaten": "7318",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abd6"
+  },
+  "id": "73.22",
+  "kode": "7322",
+  "nama": "Kab. Luwu Utara",
+  "level": 2,
+  "provinsi_id": "27",
+  "kabupaten_id": "417",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "73",
+  "kode_kabupaten": "7322",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abd7"
+  },
+  "id": "73.24",
+  "kode": "7325",
+  "nama": "Kab. Luwu Timur",
+  "level": 2,
+  "provinsi_id": "27",
+  "kabupaten_id": "418",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "73",
+  "kode_kabupaten": "7324",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abd8"
+  },
+  "id": "73.26",
+  "kode": "7326",
+  "nama": "Kab. Toraja Utara",
+  "level": 2,
+  "provinsi_id": "27",
+  "kabupaten_id": "419",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "73",
+  "kode_kabupaten": "7326",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abd9"
+  },
+  "id": "73.71",
+  "kode": "7371",
+  "nama": "Kota Makassar",
+  "level": 2,
+  "provinsi_id": "27",
+  "kabupaten_id": "420",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "73",
+  "kode_kabupaten": "7371",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abda"
+  },
+  "id": "73.72",
+  "kode": "7372",
+  "nama": "Kota Parepare",
+  "level": 2,
+  "provinsi_id": "27",
+  "kabupaten_id": "421",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "73",
+  "kode_kabupaten": "7372",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abdb"
+  },
+  "id": "73.73",
+  "kode": "7373",
+  "nama": "Kota Palopo",
+  "level": 2,
+  "provinsi_id": "27",
+  "kabupaten_id": "422",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "73",
+  "kode_kabupaten": "7373",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abdc"
+  },
+  "id": "74",
+  "kode": "74",
+  "nama": "Sulawesi Tenggara",
+  "level": 1,
+  "provinsi_id": "28",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "74",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abdd"
+  },
+  "id": "74.01",
+  "kode": "7404",
+  "nama": "Kab. Kolaka",
+  "level": 2,
+  "provinsi_id": "28",
+  "kabupaten_id": "426",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "74",
+  "kode_kabupaten": "7401",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abde"
+  },
+  "id": "74.02",
+  "kode": "7403",
+  "nama": "Kab. Konawe",
+  "level": 2,
+  "provinsi_id": "28",
+  "kabupaten_id": "425",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "74",
+  "kode_kabupaten": "7402",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abdf"
+  },
+  "id": "74.03",
+  "kode": "7402",
+  "nama": "Kab. Muna",
+  "level": 2,
+  "provinsi_id": "28",
+  "kabupaten_id": "424",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "74",
+  "kode_kabupaten": "7403",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abe0"
+  },
+  "id": "74.04",
+  "kode": "7401",
+  "nama": "Kab. Buton",
+  "level": 2,
+  "provinsi_id": "28",
+  "kabupaten_id": "423",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "74",
+  "kode_kabupaten": "7404",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abe1"
+  },
+  "id": "74.05",
+  "kode": "7405",
+  "nama": "Kab. Konawe Selatan",
+  "level": 2,
+  "provinsi_id": "28",
+  "kabupaten_id": "427",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "74",
+  "kode_kabupaten": "7405",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abe2"
+  },
+  "id": "74.06",
+  "kode": "7406",
+  "nama": "Kab. Bombana",
+  "level": 2,
+  "provinsi_id": "28",
+  "kabupaten_id": "428",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "74",
+  "kode_kabupaten": "7406",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abe3"
+  },
+  "id": "74.07",
+  "kode": "7407",
+  "nama": "Kab. Wakatobi",
+  "level": 2,
+  "provinsi_id": "28",
+  "kabupaten_id": "429",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "74",
+  "kode_kabupaten": "7407",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abe4"
+  },
+  "id": "74.08",
+  "kode": "7408",
+  "nama": "Kab. Kolaka Utara",
+  "level": 2,
+  "provinsi_id": "28",
+  "kabupaten_id": "430",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "74",
+  "kode_kabupaten": "7408",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abe5"
+  },
+  "id": "74.09",
+  "kode": "7410",
+  "nama": "Kab. Konawe Utara",
+  "level": 2,
+  "provinsi_id": "28",
+  "kabupaten_id": "432",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "74",
+  "kode_kabupaten": "7409",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abe6"
+  },
+  "id": "74.10",
+  "kode": "7409",
+  "nama": "Kab. Buton Utara",
+  "level": 2,
+  "provinsi_id": "28",
+  "kabupaten_id": "431",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "74",
+  "kode_kabupaten": "7410",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abe7"
+  },
+  "id": "74.11",
+  "kode": "7411",
+  "nama": "Kab. Kolaka Timur",
+  "level": 2,
+  "provinsi_id": "28",
+  "kabupaten_id": "433",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "74",
+  "kode_kabupaten": "7411",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abe8"
+  },
+  "id": "74.12",
+  "kode": "7412",
+  "nama": "Kab. Konawe Kepulauan",
+  "level": 2,
+  "provinsi_id": "28",
+  "kabupaten_id": "434",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "74",
+  "kode_kabupaten": "7412",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abe9"
+  },
+  "id": "74.13",
+  "kode": "7413",
+  "nama": "Kab. Muna Barat",
+  "level": 2,
+  "provinsi_id": "28",
+  "kabupaten_id": "435",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "74",
+  "kode_kabupaten": "7413",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abea"
+  },
+  "id": "74.14",
+  "kode": "7414",
+  "nama": "Kab. Buton Tengah",
+  "level": 2,
+  "provinsi_id": "28",
+  "kabupaten_id": "436",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "74",
+  "kode_kabupaten": "7414",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abeb"
+  },
+  "id": "74.15",
+  "kode": "7415",
+  "nama": "Kab. Buton Selatan",
+  "level": 2,
+  "provinsi_id": "28",
+  "kabupaten_id": "437",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "74",
+  "kode_kabupaten": "7415",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abec"
+  },
+  "id": "74.71",
+  "kode": "7471",
+  "nama": "Kota Kendari",
+  "level": 2,
+  "provinsi_id": "28",
+  "kabupaten_id": "438",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "74",
+  "kode_kabupaten": "7471",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abed"
+  },
+  "id": "74.72",
+  "kode": "7472",
+  "nama": "Kota Baubau",
+  "level": 2,
+  "provinsi_id": "28",
+  "kabupaten_id": "439",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "74",
+  "kode_kabupaten": "7472",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abee"
+  },
+  "id": "75",
+  "kode": "75",
+  "nama": "Gorontalo",
+  "level": 1,
+  "provinsi_id": "29",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "75",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abef"
+  },
+  "id": "75.01",
+  "kode": "7502",
+  "nama": "Kab. Gorontalo",
+  "level": 2,
+  "provinsi_id": "29",
+  "kabupaten_id": "441",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "75",
+  "kode_kabupaten": "7501",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abf0"
+  },
+  "id": "75.02",
+  "kode": "7501",
+  "nama": "Kab. Boalemo",
+  "level": 2,
+  "provinsi_id": "29",
+  "kabupaten_id": "440",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "75",
+  "kode_kabupaten": "7502",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abf1"
+  },
+  "id": "75.03",
+  "kode": "7504",
+  "nama": "Kab. Bone Bolango",
+  "level": 2,
+  "provinsi_id": "29",
+  "kabupaten_id": "443",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "75",
+  "kode_kabupaten": "7503",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abf2"
+  },
+  "id": "75.04",
+  "kode": "7503",
+  "nama": "Kab. Pohuwato",
+  "level": 2,
+  "provinsi_id": "29",
+  "kabupaten_id": "442",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "75",
+  "kode_kabupaten": "7504",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abf3"
+  },
+  "id": "75.05",
+  "kode": "7505",
+  "nama": "Kab. Gorontalo Utara",
+  "level": 2,
+  "provinsi_id": "29",
+  "kabupaten_id": "444",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "75",
+  "kode_kabupaten": "7505",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abf4"
+  },
+  "id": "75.71",
+  "kode": "7571",
+  "nama": "Kota Gorontalo",
+  "level": 2,
+  "provinsi_id": "29",
+  "kabupaten_id": "445",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "75",
+  "kode_kabupaten": "7571",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abf5"
+  },
+  "id": "76",
+  "kode": "76",
+  "nama": "Sulawesi Barat",
+  "level": 1,
+  "provinsi_id": "30",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "76",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abf6"
+  },
+  "id": "76.01",
+  "kode": "7605",
+  "nama": "Kab. Pasangkayu",
+  "level": 2,
+  "provinsi_id": "30",
+  "kabupaten_id": "450",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "76",
+  "kode_kabupaten": "7601",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abf7"
+  },
+  "id": "76.02",
+  "kode": "7604",
+  "nama": "Kab. Mamuju",
+  "level": 2,
+  "provinsi_id": "30",
+  "kabupaten_id": "449",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "76",
+  "kode_kabupaten": "7602",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abf8"
+  },
+  "id": "76.03",
+  "kode": "7603",
+  "nama": "Kab. Mamasa",
+  "level": 2,
+  "provinsi_id": "30",
+  "kabupaten_id": "448",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "76",
+  "kode_kabupaten": "7603",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abf9"
+  },
+  "id": "76.04",
+  "kode": "7602",
+  "nama": "Kab. Polewali Mandar",
+  "level": 2,
+  "provinsi_id": "30",
+  "kabupaten_id": "447",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "76",
+  "kode_kabupaten": "7604",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abfa"
+  },
+  "id": "76.05",
+  "kode": "7601",
+  "nama": "Kab. Majene",
+  "level": 2,
+  "provinsi_id": "30",
+  "kabupaten_id": "446",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "76",
+  "kode_kabupaten": "7605",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abfb"
+  },
+  "id": "76.06",
+  "kode": "7606",
+  "nama": "Kab. Mamuju Tengah",
+  "level": 2,
+  "provinsi_id": "30",
+  "kabupaten_id": "451",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "76",
+  "kode_kabupaten": "7606",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abfc"
+  },
+  "id": "81",
+  "kode": "81",
+  "nama": "Maluku",
+  "level": 1,
+  "provinsi_id": "31",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "81",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abfd"
+  },
+  "id": "81.01",
+  "kode": "8103",
+  "nama": "Kab. Maluku Tengah",
+  "level": 2,
+  "provinsi_id": "31",
+  "kabupaten_id": "454",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "81",
+  "kode_kabupaten": "8101",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abfe"
+  },
+  "id": "81.02",
+  "kode": "8102",
+  "nama": "Kab. Maluku Tenggara",
+  "level": 2,
+  "provinsi_id": "31",
+  "kabupaten_id": "453",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "81",
+  "kode_kabupaten": "8102",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129abff"
+  },
+  "id": "81.03",
+  "kode": "8101",
+  "nama": "Kab. Maluku Tenggara Barat",
+  "level": 2,
+  "provinsi_id": "31",
+  "kabupaten_id": "452",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "81",
+  "kode_kabupaten": "8103",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac00"
+  },
+  "id": "81.04",
+  "kode": "8104",
+  "nama": "Kab. Buru",
+  "level": 2,
+  "provinsi_id": "31",
+  "kabupaten_id": "455",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "81",
+  "kode_kabupaten": "8104",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac01"
+  },
+  "id": "81.05",
+  "kode": "8107",
+  "nama": "Kab. Seram Bagian Timur",
+  "level": 2,
+  "provinsi_id": "31",
+  "kabupaten_id": "458",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "81",
+  "kode_kabupaten": "8105",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac02"
+  },
+  "id": "81.06",
+  "kode": "8106",
+  "nama": "Kab. Seram Bagian Barat",
+  "level": 2,
+  "provinsi_id": "31",
+  "kabupaten_id": "457",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "81",
+  "kode_kabupaten": "8106",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac03"
+  },
+  "id": "81.07",
+  "kode": "8105",
+  "nama": "Kab. Kepulauan Aru",
+  "level": 2,
+  "provinsi_id": "31",
+  "kabupaten_id": "456",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "81",
+  "kode_kabupaten": "8107",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac04"
+  },
+  "id": "81.08",
+  "kode": "8108",
+  "nama": "Kab. Maluku Barat Daya",
+  "level": 2,
+  "provinsi_id": "31",
+  "kabupaten_id": "459",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "81",
+  "kode_kabupaten": "8108",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac05"
+  },
+  "id": "81.09",
+  "kode": "8109",
+  "nama": "Kab. Buru Selatan",
+  "level": 2,
+  "provinsi_id": "31",
+  "kabupaten_id": "460",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "81",
+  "kode_kabupaten": "8109",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac06"
+  },
+  "id": "81.71",
+  "kode": "8171",
+  "nama": "Kota Ambon",
+  "level": 2,
+  "provinsi_id": "31",
+  "kabupaten_id": "461",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "81",
+  "kode_kabupaten": "8171",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac07"
+  },
+  "id": "81.72",
+  "kode": "8172",
+  "nama": "Kota Tual",
+  "level": 2,
+  "provinsi_id": "31",
+  "kabupaten_id": "462",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "81",
+  "kode_kabupaten": "8172",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac08"
+  },
+  "id": "82",
+  "kode": "82",
+  "nama": "Maluku Utara",
+  "level": 1,
+  "provinsi_id": "32",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "82",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac09"
+  },
+  "id": "82.01",
+  "kode": "8201",
+  "nama": "Kab. Halmahera Barat",
+  "level": 2,
+  "provinsi_id": "32",
+  "kabupaten_id": "463",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "82",
+  "kode_kabupaten": "8201",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac0a"
+  },
+  "id": "82.02",
+  "kode": "8202",
+  "nama": "Kab. Halmahera Tengah",
+  "level": 2,
+  "provinsi_id": "32",
+  "kabupaten_id": "464",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "82",
+  "kode_kabupaten": "8202",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac0b"
+  },
+  "id": "82.03",
+  "kode": "8205",
+  "nama": "Kab. Halmahera Utara",
+  "level": 2,
+  "provinsi_id": "32",
+  "kabupaten_id": "467",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "82",
+  "kode_kabupaten": "8203",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac0c"
+  },
+  "id": "82.04",
+  "kode": "8204",
+  "nama": "Kab. Halmahera Selatan",
+  "level": 2,
+  "provinsi_id": "32",
+  "kabupaten_id": "466",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "82",
+  "kode_kabupaten": "8204",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac0d"
+  },
+  "id": "82.05",
+  "kode": "8203",
+  "nama": "Kab. Kepulauan Sula",
+  "level": 2,
+  "provinsi_id": "32",
+  "kabupaten_id": "465",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "82",
+  "kode_kabupaten": "8205",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac0e"
+  },
+  "id": "82.06",
+  "kode": "8206",
+  "nama": "Kab. Halmahera Timur",
+  "level": 2,
+  "provinsi_id": "32",
+  "kabupaten_id": "468",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "82",
+  "kode_kabupaten": "8206",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac0f"
+  },
+  "id": "82.07",
+  "kode": "8207",
+  "nama": "Kab. Pulau Morotai",
+  "level": 2,
+  "provinsi_id": "32",
+  "kabupaten_id": "469",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "82",
+  "kode_kabupaten": "8207",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac10"
+  },
+  "id": "82.08",
+  "kode": "8208",
+  "nama": "Kab. Pulau Taliabu",
+  "level": 2,
+  "provinsi_id": "32",
+  "kabupaten_id": "470",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "82",
+  "kode_kabupaten": "8208",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac11"
+  },
+  "id": "82.71",
+  "kode": "8271",
+  "nama": "Kota Ternate",
+  "level": 2,
+  "provinsi_id": "32",
+  "kabupaten_id": "471",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "82",
+  "kode_kabupaten": "8271",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac12"
+  },
+  "id": "82.72",
+  "kode": "8272",
+  "nama": "Kota Tidore Kepulauan",
+  "level": 2,
+  "provinsi_id": "32",
+  "kabupaten_id": "472",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "82",
+  "kode_kabupaten": "8272",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac13"
+  },
+  "id": "91",
+  "kode": "94",
+  "nama": "Papua",
+  "level": 1,
+  "provinsi_id": "34",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "91",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac14"
+  },
+  "id": "91.01",
+  "kode": "9401",
+  "nama": "Kab. Merauke",
+  "level": 2,
+  "provinsi_id": "35",
+  "kabupaten_id": "486",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "91",
+  "kode_kabupaten": "9101",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac15"
+  },
+  "id": "91.02",
+  "kode": "9402",
+  "nama": "Kab. Jayawijaya",
+  "level": 2,
+  "provinsi_id": "37",
+  "kabupaten_id": "487",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "91",
+  "kode_kabupaten": "9102",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac16"
+  },
+  "id": "91.03",
+  "kode": "9403",
+  "nama": "Kab. Jayapura",
+  "level": 2,
+  "provinsi_id": "34",
+  "kabupaten_id": "488",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "91",
+  "kode_kabupaten": "9103",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac17"
+  },
+  "id": "91.04",
+  "kode": "9404",
+  "nama": "Kab. Nabire",
+  "level": 2,
+  "provinsi_id": "36",
+  "kabupaten_id": "489",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "91",
+  "kode_kabupaten": "9104",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac18"
+  },
+  "id": "91.05",
+  "kode": "9408",
+  "nama": "Kab. Kepulauan Yapen",
+  "level": 2,
+  "provinsi_id": "34",
+  "kabupaten_id": "490",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "91",
+  "kode_kabupaten": "9105",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac19"
+  },
+  "id": "91.06",
+  "kode": "9409",
+  "nama": "Kab. Biak Numfor",
+  "level": 2,
+  "provinsi_id": "34",
+  "kabupaten_id": "491",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "91",
+  "kode_kabupaten": "9106",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac1a"
+  },
+  "id": "91.07",
+  "kode": "9411",
+  "nama": "Kab. Puncak Jaya",
+  "level": 2,
+  "provinsi_id": "36",
+  "kabupaten_id": "493",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "91",
+  "kode_kabupaten": "9107",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac1b"
+  },
+  "id": "91.08",
+  "kode": "9410",
+  "nama": "Kab. Paniai",
+  "level": 2,
+  "provinsi_id": "36",
+  "kabupaten_id": "492",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "91",
+  "kode_kabupaten": "9108",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac1c"
+  },
+  "id": "91.09",
+  "kode": "9412",
+  "nama": "Kab. Mimika",
+  "level": 2,
+  "provinsi_id": "36",
+  "kabupaten_id": "494",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "91",
+  "kode_kabupaten": "9109",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac1d"
+  },
+  "id": "91.10",
+  "kode": "9419",
+  "nama": "Kab. Sarmi",
+  "level": 2,
+  "provinsi_id": "34",
+  "kabupaten_id": "501",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "91",
+  "kode_kabupaten": "9110",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac1e"
+  },
+  "id": "91.11",
+  "kode": "9420",
+  "nama": "Kab. Keerom",
+  "level": 2,
+  "provinsi_id": "34",
+  "kabupaten_id": "502",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "91",
+  "kode_kabupaten": "9111",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac1f"
+  },
+  "id": "91.12",
+  "kode": "9417",
+  "nama": "Kab. Pegunungan Bintang",
+  "level": 2,
+  "provinsi_id": "37",
+  "kabupaten_id": "499",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "91",
+  "kode_kabupaten": "9112",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac20"
+  },
+  "id": "91.13",
+  "kode": "9416",
+  "nama": "Kab. Yahukimo",
+  "level": 2,
+  "provinsi_id": "37",
+  "kabupaten_id": "498",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "91",
+  "kode_kabupaten": "9113",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac21"
+  },
+  "id": "91.14",
+  "kode": "9418",
+  "nama": "Kab. Tolikara",
+  "level": 2,
+  "provinsi_id": "37",
+  "kabupaten_id": "500",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "91",
+  "kode_kabupaten": "9114",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac22"
+  },
+  "id": "91.15",
+  "kode": "9426",
+  "nama": "Kab. Waropen",
+  "level": 2,
+  "provinsi_id": "34",
+  "kabupaten_id": "503",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "91",
+  "kode_kabupaten": "9115",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac23"
+  },
+  "id": "91.16",
+  "kode": "9413",
+  "nama": "Kab. Boven Digoel",
+  "level": 2,
+  "provinsi_id": "35",
+  "kabupaten_id": "495",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "91",
+  "kode_kabupaten": "9116",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac24"
+  },
+  "id": "91.17",
+  "kode": "9414",
+  "nama": "Kab. Mappi",
+  "level": 2,
+  "provinsi_id": "35",
+  "kabupaten_id": "496",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "91",
+  "kode_kabupaten": "9117",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac25"
+  },
+  "id": "91.18",
+  "kode": "9415",
+  "nama": "Kab. Asmat",
+  "level": 2,
+  "provinsi_id": "35",
+  "kabupaten_id": "497",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "91",
+  "kode_kabupaten": "9118",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac26"
+  },
+  "id": "91.19",
+  "kode": "9427",
+  "nama": "Kab. Supiori",
+  "level": 2,
+  "provinsi_id": "34",
+  "kabupaten_id": "504",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "91",
+  "kode_kabupaten": "9119",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac27"
+  },
+  "id": "91.20",
+  "kode": "9428",
+  "nama": "Kab. Mamberamo Raya",
+  "level": 2,
+  "provinsi_id": "34",
+  "kabupaten_id": "505",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "91",
+  "kode_kabupaten": "9120",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac28"
+  },
+  "id": "91.21",
+  "kode": "9431",
+  "nama": "Kab. Mamberamo Tengah",
+  "level": 2,
+  "provinsi_id": "37",
+  "kabupaten_id": "508",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "91",
+  "kode_kabupaten": "9121",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac29"
+  },
+  "id": "91.22",
+  "kode": "9432",
+  "nama": "Kab. Yalimo",
+  "level": 2,
+  "provinsi_id": "37",
+  "kabupaten_id": "509",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "91",
+  "kode_kabupaten": "9122",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac2a"
+  },
+  "id": "91.23",
+  "kode": "9430",
+  "nama": "Kab. Lanny Jaya",
+  "level": 2,
+  "provinsi_id": "37",
+  "kabupaten_id": "507",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "91",
+  "kode_kabupaten": "9123",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac2b"
+  },
+  "id": "91.24",
+  "kode": "9429",
+  "nama": "Kab. Nduga",
+  "level": 2,
+  "provinsi_id": "37",
+  "kabupaten_id": "506",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "91",
+  "kode_kabupaten": "9124",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac2c"
+  },
+  "id": "91.25",
+  "kode": "9433",
+  "nama": "Kab. Puncak",
+  "level": 2,
+  "provinsi_id": "36",
+  "kabupaten_id": "510",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "91",
+  "kode_kabupaten": "9125",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac2d"
+  },
+  "id": "91.26",
+  "kode": "9434",
+  "nama": "Kab. Dogiyai",
+  "level": 2,
+  "provinsi_id": "36",
+  "kabupaten_id": "511",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "91",
+  "kode_kabupaten": "9126",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac2e"
+  },
+  "id": "91.27",
+  "kode": "9435",
+  "nama": "Kab. Intan Jaya",
+  "level": 2,
+  "provinsi_id": "36",
+  "kabupaten_id": "512",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "91",
+  "kode_kabupaten": "9127",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac2f"
+  },
+  "id": "91.28",
+  "kode": "9436",
+  "nama": "Kab. Deiyai",
+  "level": 2,
+  "provinsi_id": "36",
+  "kabupaten_id": "513",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "91",
+  "kode_kabupaten": "9128",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac30"
+  },
+  "id": "91.71",
+  "kode": "9471",
+  "nama": "Kota Jayapura",
+  "level": 2,
+  "provinsi_id": "34",
+  "kabupaten_id": "514",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "91",
+  "kode_kabupaten": "9171",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac31"
+  },
+  "id": "92",
+  "kode": "91",
+  "nama": "Papua Barat",
+  "level": 1,
+  "provinsi_id": "33",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "92",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac32"
+  },
+  "id": "92.01",
+  "kode": "9107",
+  "nama": "Kab. Sorong",
+  "level": 2,
+  "provinsi_id": "38",
+  "kabupaten_id": "479",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "92",
+  "kode_kabupaten": "9201",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac33"
+  },
+  "id": "92.02",
+  "kode": "9105",
+  "nama": "Kab. Manokwari",
+  "level": 2,
+  "provinsi_id": "33",
+  "kabupaten_id": "477",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "92",
+  "kode_kabupaten": "9202",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac34"
+  },
+  "id": "92.03",
+  "kode": "9101",
+  "nama": "Kab. Fakfak",
+  "level": 2,
+  "provinsi_id": "33",
+  "kabupaten_id": "473",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "92",
+  "kode_kabupaten": "9203",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac35"
+  },
+  "id": "92.04",
+  "kode": "9106",
+  "nama": "Kab. Sorong Selatan",
+  "level": 2,
+  "provinsi_id": "38",
+  "kabupaten_id": "478",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "92",
+  "kode_kabupaten": "9204",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac36"
+  },
+  "id": "92.05",
+  "kode": "9108",
+  "nama": "Kab. Raja Ampat",
+  "level": 2,
+  "provinsi_id": "38",
+  "kabupaten_id": "480",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "92",
+  "kode_kabupaten": "9205",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac37"
+  },
+  "id": "92.06",
+  "kode": "9104",
+  "nama": "Kab. Teluk Bintuni",
+  "level": 2,
+  "provinsi_id": "33",
+  "kabupaten_id": "476",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "92",
+  "kode_kabupaten": "9206",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac38"
+  },
+  "id": "92.07",
+  "kode": "9103",
+  "nama": "Kab. Teluk Wondama",
+  "level": 2,
+  "provinsi_id": "33",
+  "kabupaten_id": "475",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "92",
+  "kode_kabupaten": "9207",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac39"
+  },
+  "id": "92.08",
+  "kode": "9102",
+  "nama": "Kab. Kaimana",
+  "level": 2,
+  "provinsi_id": "33",
+  "kabupaten_id": "474",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "92",
+  "kode_kabupaten": "9208",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac3a"
+  },
+  "id": "92.09",
+  "kode": "9109",
+  "nama": "Kab. Tambrauw",
+  "level": 2,
+  "provinsi_id": "38",
+  "kabupaten_id": "481",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "92",
+  "kode_kabupaten": "9209",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac3b"
+  },
+  "id": "92.10",
+  "kode": "9110",
+  "nama": "Kab. Maybrat",
+  "level": 2,
+  "provinsi_id": "38",
+  "kabupaten_id": "482",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "92",
+  "kode_kabupaten": "9210",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac3c"
+  },
+  "id": "92.11",
+  "kode": "9111",
+  "nama": "Kab. Manokwari Selatan",
+  "level": 2,
+  "provinsi_id": "33",
+  "kabupaten_id": "483",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "92",
+  "kode_kabupaten": "9211",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac3d"
+  },
+  "id": "92.12",
+  "kode": "9112",
+  "nama": "Kab. Pegunungan Arfak",
+  "level": 2,
+  "provinsi_id": "33",
+  "kabupaten_id": "484",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "92",
+  "kode_kabupaten": "9212",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac3e"
+  },
+  "id": "92.71",
+  "kode": "9171",
+  "nama": "Kota Sorong",
+  "level": 2,
+  "provinsi_id": "38",
+  "kabupaten_id": "485",
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "92",
+  "kode_kabupaten": "9271",
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac3f"
+  },
+  "id": "93",
+  "kode": "93",
+  "nama": "Papua Selatan",
+  "level": 1,
+  "provinsi_id": "35",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "93",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac40"
+  },
+  "id": "94",
+  "kode": "92",
+  "nama": "Papua Tengah",
+  "level": 1,
+  "provinsi_id": "36",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "94",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac41"
+  },
+  "id": "95",
+  "kode": "95",
+  "nama": "Papua Pegunungan",
+  "level": 1,
+  "provinsi_id": "37",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "95",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+},
+{
+  "_id": {
+    "$oid": "68d03bc1abad57d21129ac42"
+  },
+  "id": "96",
+  "kode": "96",
+  "nama": "Papua Barat Daya",
+  "level": 1,
+  "provinsi_id": "38",
+  "kabupaten_id": null,
+  "kecamatan_id": null,
+  "kelurahan_id": null,
+  "kode_provinsi": "96",
+  "kode_kabupaten": null,
+  "kode_kecamatan": null,
+  "kode_kelurahan": null
+}]
