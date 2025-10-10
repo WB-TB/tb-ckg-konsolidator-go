@@ -8,6 +8,7 @@ type DataSkriningTBRaw struct {
 	PasienJenisKelamin string  `bson:"jenis_kelamin"`
 	PasienTglLahir     string  `bson:"tgl_lahir"`
 	PasienUsia         int     `bson:"usia"`
+	PasienPekerjaan    string  `bson:"pekerjaan"` //TODO: saat ini data belum tersedia di dwh mongodb
 	PasienProvinsi     *string `bson:"provinsi_pasien"`
 	PasienKabkota      *string `bson:"kabkota_pasien"`
 	PasienKecamatan    *string `bson:"kecamatan_pasien"`
@@ -62,6 +63,7 @@ type DataSkriningTBResult struct {
 	PasienJenisKelamin       string  `json:"pasien_jenis_kelamin"`
 	PasienTglLahir           string  `json:"pasien_tgl_lahir"`
 	PasienUsia               int     `json:"pasien_usia"`
+	PasienPekerjaan          string  `bson:"pekerjaan"` //TODO: saat ini data belum tersedia di dwh mongodb
 	PasienProvinsiSatusehat  *string `json:"pasien_provinsi_satusehat"`
 	PasienKabkotaSatusehat   *string `json:"pasien_kabkota_satusehat"`
 	PasienKecamatanSatusehat *string `json:"pasien_kecamatan_satusehat"`

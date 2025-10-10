@@ -1,5 +1,31 @@
 package models
 
+/*
+*
+status_diagnosa:
+- TBC SO
+- TBC RO
+- Bukan TBC
+
+diagnosa_lab_metode:
+- TCM
+- BTA
+
+diagnosa_lab_hasil:
+  - Untuk pilihan diagnosa_lab_metode = TCM:
+  - not_detected
+  - rif_sen
+  - rif_res
+  - rif_indet
+  - invalid
+  - error
+  - no_result
+  - tdl
+  - Untuk pilihan diagnosa_lab_metode = BTA:
+  - negatif
+  - positif
+*/
+
 type StatusPasienTBInput struct {
 	PasienCkgID *int    `json:"pasien_ckg_id" bson:"pasien_ckg_id"`
 	TerdugaID   *string `json:"terduga_id" bson:"terduga_id"`     // ID Terduga TB

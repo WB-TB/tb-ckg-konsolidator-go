@@ -31,6 +31,10 @@ func NewCKGTBRepo() *CKGTBRepo {
 }
 
 func (r *CKGTBRepo) GeTbtDataFiltered(ctx context.Context, conn *mongo.Client, tanggal string, halaman int) (*models.DataSkriningTBOutput, error) {
+	if err := r._ValidateTanggal(tanggal); err != nil {
+		return nil, err
+	}
+
 	conf := config.GetConfig()
 	filter := bson.M{
 		"$and": []bson.M{
@@ -122,6 +126,7 @@ func (r *CKGTBRepo) GeTbtDataFiltered(ctx context.Context, conn *mongo.Client, t
 			PasienJenisKelamin:       raw.PasienJenisKelamin,
 			PasienTglLahir:           raw.PasienTglLahir,
 			PasienUsia:               raw.PasienUsia,
+			PasienPekerjaan:          raw.PasienPekerjaan,
 			PasienProvinsiSatusehat:  raw.PasienProvinsi,
 			PasienKabkotaSatusehat:   raw.PasienKabkota,
 			PasienKecamatanSatusehat: raw.PasienKecamatan,
@@ -476,6 +481,28 @@ func (r *CKGTBRepo) _MappingMasterData(ctxMasterWilayah context.Context, ctxMast
 			res.KodeFaskesSITB = faskes.ID
 		}
 	}
+}
+
+func (r *CKGTBRepo) _ValidateTanggal(tanggal string) error {
+	// Parse tanggal dengan format YYYY-MM-DD
+	date, err := time.Parse("2006-01-02", tanggal)
+	if err != nil {
+		return fmt.Errorf("format tanggal harus YYYY-MM-DD")
+	}
+
+	// Cek jika tanggal di bawah 2025-01-01
+	minDate := time.Date(2025, time.January, 1, 0, 0, 0, 0, time.UTC)
+	if date.Before(minDate) {
+		return fmt.Errorf("tanggal tidak boleh di bawah 2025-01-01")
+	}
+
+	// Cek jika tanggal lebih dari hari ini
+	today := time.Now().UTC().Truncate(24 * time.Hour)
+	if date.After(today) {
+		return fmt.Errorf("tanggal tidak boleh lebih dari hari ini")
+	}
+
+	return nil
 }
 
 func (r *CKGTBRepo) _ValidateSkriningData(item models.StatusPasienTBInput, i int) error {
